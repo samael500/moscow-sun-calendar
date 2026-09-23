@@ -81,7 +81,7 @@ def build_calendar(start: date, months: int = 6, history_months: int = 6, city: 
     return result
 
 
-def generate_site(output: Path, anchor: date | None = None, months: int = 6, history_months: int = 6):
+def generate_site(output: Path, anchor: date | None = None, months: int = 6, history_months: int = 6, noindex: bool = False):
     output.mkdir(parents=True, exist_ok=True)
     shutil.copytree(ROOT / "web", output, dirs_exist_ok=True)
     catalog = []
@@ -101,6 +101,8 @@ def generate_site(output: Path, anchor: date | None = None, months: int = 6, his
     data = {"updated": now.isoformat(), "cities": catalog}
     (output / "cities.json").write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
     template = (ROOT / "web/index.html").read_text()
+    if noindex:
+        template = template.replace("</head>", '<meta name="robots" content="noindex, nofollow"></head>')
     links = "\n".join(f'<li><a href="{c["id"]}.ics">{escape(c["name"])}</a></li>' for c in catalog)
     (output / "index.html").write_text(template.replace("<!-- CITY_LINKS -->", links).replace("{{CITY_COUNT}}", str(len(catalog))))
     print(f"Generated {len(catalog)} calendars in {output}")
@@ -113,8 +115,9 @@ def main():
     parser.add_argument("--months", type=int, default=6)
     parser.add_argument("--history-months", type=int, default=6)
     parser.add_argument("--output-dir", type=Path, default=Path("docs"))
+    parser.add_argument("--noindex", action="store_true", help="Exclude preview pages from search indexing")
     args = parser.parse_args()
-    generate_site(args.output_dir, args.start, args.months, args.history_months)
+    generate_site(args.output_dir, args.start, args.months, args.history_months, args.noindex)
 
 
 if __name__ == "__main__":
