@@ -6,7 +6,7 @@
     "longitude": 34.4097,
     "timezone": "Europe/Simferopol",
     "geonames_id": 713513,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Алушта"
   },
   {
@@ -16,7 +16,7 @@
     "longitude": 38.81669,
     "timezone": "Europe/Moscow",
     "geonames_id": 713716,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Алчевск"
   },
   {
@@ -25,7 +25,8 @@
     "latitude": 64.73424,
     "longitude": 177.5103,
     "timezone": "Asia/Anadyr",
-    "geonames_id": 2127202
+    "geonames_id": 2127202,
+    "region": "Восток"
   },
   {
     "id": "arkhangelsk",
@@ -33,7 +34,8 @@
     "latitude": 64.54717,
     "longitude": 40.55291,
     "timezone": "Europe/Moscow",
-    "geonames_id": 581049
+    "geonames_id": 581049,
+    "region": "Запад"
   },
   {
     "id": "astrakhan",
@@ -41,7 +43,8 @@
     "latitude": 46.34968,
     "longitude": 48.04076,
     "timezone": "Europe/Astrakhan",
-    "geonames_id": 580497
+    "geonames_id": 580497,
+    "region": "Запад"
   },
   {
     "id": "baranovichi",
@@ -51,7 +54,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 630429,
     "region": "Беларусь",
-    "location": "Барановичи, Беларусь"
+    "location": "Барановичи, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "barnaul",
@@ -59,7 +63,8 @@
     "latitude": 53.3598,
     "longitude": 83.7456,
     "timezone": "Asia/Barnaul",
-    "geonames_id": 1510853
+    "geonames_id": 1510853,
+    "region": "Центр"
   },
   {
     "id": "bila-tserkva",
@@ -68,7 +73,7 @@
     "longitude": 30.12851,
     "timezone": "Europe/Kyiv",
     "geonames_id": 712165,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Белая Церковь"
   },
   {
@@ -77,7 +82,8 @@
     "latitude": 50.61074,
     "longitude": 36.58015,
     "timezone": "Europe/Moscow",
-    "geonames_id": 578072
+    "geonames_id": 578072,
+    "region": "Запад"
   },
   {
     "id": "berdiansk",
@@ -86,7 +92,7 @@
     "longitude": 36.78815,
     "timezone": "Europe/Moscow",
     "geonames_id": 712451,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Бердянск"
   },
   {
@@ -97,7 +103,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 630468,
     "region": "Беларусь",
-    "location": "Бобруйск, Беларусь"
+    "location": "Бобруйск, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "borisov",
@@ -107,7 +114,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 630376,
     "region": "Беларусь",
-    "location": "Борисов, Беларусь"
+    "location": "Борисов, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "brest",
@@ -117,7 +125,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 629634,
     "region": "Беларусь",
-    "location": "Брест, Беларусь"
+    "location": "Брест, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "brovary",
@@ -126,7 +135,7 @@
     "longitude": 30.80671,
     "timezone": "Europe/Kyiv",
     "geonames_id": 711390,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Бровары"
   },
   {
@@ -136,7 +145,7 @@
     "longitude": 28.46871,
     "timezone": "Europe/Kyiv",
     "geonames_id": 689558,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Винница"
   },
   {
@@ -147,7 +156,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 620127,
     "region": "Беларусь",
-    "location": "Витебск, Беларусь"
+    "location": "Витебск, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "vladivostok",
@@ -155,7 +165,8 @@
     "latitude": 43.10562,
     "longitude": 131.87353,
     "timezone": "Asia/Vladivostok",
-    "geonames_id": 2013348
+    "geonames_id": 2013348,
+    "region": "Восток"
   },
   {
     "id": "volgograd",
@@ -163,7 +174,8 @@
     "latitude": 48.71939,
     "longitude": 44.50183,
     "timezone": "Europe/Volgograd",
-    "geonames_id": 472757
+    "geonames_id": 472757,
+    "region": "Запад"
   },
   {
     "id": "voronezh",
@@ -171,7 +183,8 @@
     "latitude": 51.67204,
     "longitude": 39.1843,
     "timezone": "Europe/Moscow",
-    "geonames_id": 472045
+    "geonames_id": 472045,
+    "region": "Запад"
   },
   {
     "id": "gomel",
@@ -181,7 +194,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 627907,
     "region": "Беларусь",
-    "location": "Гомель, Беларусь"
+    "location": "Гомель, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "horlivka",
@@ -190,7 +204,7 @@
     "longitude": 38.05325,
     "timezone": "Europe/Moscow",
     "geonames_id": 707753,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Горловка"
   },
   {
@@ -201,7 +215,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 627904,
     "region": "Беларусь",
-    "location": "Гродно, Беларусь"
+    "location": "Гродно, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "dnipro",
@@ -210,7 +225,7 @@
     "longitude": 35.04066,
     "timezone": "Europe/Kyiv",
     "geonames_id": 709930,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Днепр"
   },
   {
@@ -220,7 +235,7 @@
     "longitude": 37.80224,
     "timezone": "Europe/Moscow",
     "geonames_id": 709717,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Донецк"
   },
   {
@@ -230,7 +245,7 @@
     "longitude": 33.36655,
     "timezone": "Europe/Simferopol",
     "geonames_id": 688105,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Евпатория"
   },
   {
@@ -239,7 +254,8 @@
     "latitude": 56.8519,
     "longitude": 60.6122,
     "timezone": "Asia/Yekaterinburg",
-    "geonames_id": 1486209
+    "geonames_id": 1486209,
+    "region": "Центр"
   },
   {
     "id": "zhytomyr",
@@ -248,7 +264,7 @@
     "longitude": 28.67913,
     "timezone": "Europe/Kyiv",
     "geonames_id": 686967,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Житомир"
   },
   {
@@ -258,7 +274,7 @@
     "longitude": 35.11714,
     "timezone": "Europe/Kyiv",
     "geonames_id": 687700,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Запорожье"
   },
   {
@@ -268,7 +284,7 @@
     "longitude": 24.71248,
     "timezone": "Europe/Kyiv",
     "geonames_id": 707471,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Ивано-Франковск"
   },
   {
@@ -277,7 +293,8 @@
     "latitude": 56.84976,
     "longitude": 53.20448,
     "timezone": "Europe/Samara",
-    "geonames_id": 554840
+    "geonames_id": 554840,
+    "region": "Центр"
   },
   {
     "id": "irkutsk",
@@ -285,7 +302,8 @@
     "latitude": 52.29795,
     "longitude": 104.29585,
     "timezone": "Asia/Irkutsk",
-    "geonames_id": 2023469
+    "geonames_id": 2023469,
+    "region": "Центр"
   },
   {
     "id": "kazan",
@@ -293,7 +311,8 @@
     "latitude": 55.78874,
     "longitude": 49.12214,
     "timezone": "Europe/Moscow",
-    "geonames_id": 551487
+    "geonames_id": 551487,
+    "region": "Запад"
   },
   {
     "id": "kaliningrad",
@@ -301,7 +320,8 @@
     "latitude": 54.70649,
     "longitude": 20.51095,
     "timezone": "Europe/Kaliningrad",
-    "geonames_id": 554234
+    "geonames_id": 554234,
+    "region": "Запад"
   },
   {
     "id": "kamianets-podilskyi",
@@ -310,7 +330,7 @@
     "longitude": 26.58516,
     "timezone": "Europe/Kyiv",
     "geonames_id": 706950,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Каменец-Подольский"
   },
   {
@@ -320,7 +340,7 @@
     "longitude": 34.60617,
     "timezone": "Europe/Kyiv",
     "geonames_id": 709932,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Каменское"
   },
   {
@@ -329,7 +349,8 @@
     "latitude": 55.33333,
     "longitude": 86.08333,
     "timezone": "Asia/Novokuznetsk",
-    "geonames_id": 1503901
+    "geonames_id": 1503901,
+    "region": "Центр"
   },
   {
     "id": "kerch",
@@ -338,7 +359,7 @@
     "longitude": 36.47542,
     "timezone": "Europe/Simferopol",
     "geonames_id": 706524,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Керчь"
   },
   {
@@ -348,7 +369,7 @@
     "longitude": 30.5238,
     "timezone": "Europe/Kyiv",
     "geonames_id": 703448,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Киев"
   },
   {
@@ -357,7 +378,8 @@
     "latitude": 58.59665,
     "longitude": 49.66007,
     "timezone": "Europe/Kirov",
-    "geonames_id": 548408
+    "geonames_id": 548408,
+    "region": "Запад"
   },
   {
     "id": "kramatorsk",
@@ -366,7 +388,7 @@
     "longitude": 37.58793,
     "timezone": "Europe/Kyiv",
     "geonames_id": 704508,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Краматорск"
   },
   {
@@ -375,7 +397,8 @@
     "latitude": 45.04484,
     "longitude": 38.97603,
     "timezone": "Europe/Moscow",
-    "geonames_id": 542420
+    "geonames_id": 542420,
+    "region": "Запад"
   },
   {
     "id": "krasnoyarsk",
@@ -383,7 +406,8 @@
     "latitude": 56.02668,
     "longitude": 92.90765,
     "timezone": "Asia/Krasnoyarsk",
-    "geonames_id": 1502026
+    "geonames_id": 1502026,
+    "region": "Центр"
   },
   {
     "id": "kremenchuk",
@@ -392,7 +416,7 @@
     "longitude": 33.40484,
     "timezone": "Europe/Kyiv",
     "geonames_id": 704147,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Кременчуг"
   },
   {
@@ -402,7 +426,7 @@
     "longitude": 33.39404,
     "timezone": "Europe/Kyiv",
     "geonames_id": 703845,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Кривой Рог"
   },
   {
@@ -412,7 +436,7 @@
     "longitude": 32.26618,
     "timezone": "Europe/Kyiv",
     "geonames_id": 705812,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Кропивницкий"
   },
   {
@@ -423,7 +447,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 626081,
     "region": "Беларусь",
-    "location": "Лида, Беларусь"
+    "location": "Лида, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "lipetsk",
@@ -431,7 +456,8 @@
     "latitude": 52.60311,
     "longitude": 39.57076,
     "timezone": "Europe/Moscow",
-    "geonames_id": 535121
+    "geonames_id": 535121,
+    "region": "Запад"
   },
   {
     "id": "lysychansk",
@@ -440,7 +466,7 @@
     "longitude": 38.44094,
     "timezone": "Europe/Moscow",
     "geonames_id": 702972,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Лисичанск"
   },
   {
@@ -450,7 +476,7 @@
     "longitude": 39.30553,
     "timezone": "Europe/Moscow",
     "geonames_id": 702658,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Луганск"
   },
   {
@@ -460,7 +486,7 @@
     "longitude": 25.35024,
     "timezone": "Europe/Kyiv",
     "geonames_id": 702569,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Луцк"
   },
   {
@@ -470,7 +496,7 @@
     "longitude": 24.02324,
     "timezone": "Europe/Kyiv",
     "geonames_id": 702550,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Львов"
   },
   {
@@ -479,7 +505,8 @@
     "latitude": 59.5638,
     "longitude": 150.80347,
     "timezone": "Asia/Magadan",
-    "geonames_id": 2123628
+    "geonames_id": 2123628,
+    "region": "Восток"
   },
   {
     "id": "makiivka",
@@ -488,7 +515,7 @@
     "longitude": 37.92576,
     "timezone": "Europe/Moscow",
     "geonames_id": 702320,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Макеевка"
   },
   {
@@ -498,7 +525,7 @@
     "longitude": 37.54131,
     "timezone": "Europe/Moscow",
     "geonames_id": 701822,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Мариуполь"
   },
   {
@@ -507,7 +534,8 @@
     "latitude": 42.97638,
     "longitude": 47.50236,
     "timezone": "Europe/Moscow",
-    "geonames_id": 532096
+    "geonames_id": 532096,
+    "region": "Запад"
   },
   {
     "id": "melitopol",
@@ -516,7 +544,7 @@
     "longitude": 35.38196,
     "timezone": "Europe/Moscow",
     "geonames_id": 701404,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Мелитополь"
   },
   {
@@ -527,7 +555,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 625144,
     "region": "Беларусь",
-    "location": "Минск, Беларусь"
+    "location": "Минск, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "mogilev",
@@ -537,7 +566,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 625665,
     "region": "Беларусь",
-    "location": "Могилёв, Беларусь"
+    "location": "Могилёв, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "mozyr",
@@ -547,7 +577,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 625324,
     "region": "Беларусь",
-    "location": "Мозырь, Беларусь"
+    "location": "Мозырь, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "moscow",
@@ -555,7 +586,8 @@
     "latitude": 55.7558,
     "longitude": 37.6173,
     "timezone": "Europe/Moscow",
-    "geonames_id": 524901
+    "geonames_id": 524901,
+    "region": "Запад"
   },
   {
     "id": "murmansk",
@@ -563,7 +595,8 @@
     "latitude": 68.97398,
     "longitude": 33.09747,
     "timezone": "Europe/Moscow",
-    "geonames_id": 524305
+    "geonames_id": 524305,
+    "region": "Запад"
   },
   {
     "id": "naberezhnye-chelny",
@@ -571,7 +604,8 @@
     "latitude": 55.72545,
     "longitude": 52.41122,
     "timezone": "Europe/Moscow",
-    "geonames_id": 523750
+    "geonames_id": 523750,
+    "region": "Центр"
   },
   {
     "id": "nizhny-novgorod",
@@ -579,7 +613,8 @@
     "latitude": 56.32867,
     "longitude": 44.00205,
     "timezone": "Europe/Moscow",
-    "geonames_id": 520555
+    "geonames_id": 520555,
+    "region": "Запад"
   },
   {
     "id": "mykolaiv",
@@ -588,7 +623,7 @@
     "longitude": 31.99296,
     "timezone": "Europe/Kyiv",
     "geonames_id": 700569,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Николаев"
   },
   {
@@ -598,7 +633,7 @@
     "longitude": 34.39126,
     "timezone": "Europe/Kyiv",
     "geonames_id": 700051,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Никополь"
   },
   {
@@ -607,7 +642,8 @@
     "latitude": 53.75752,
     "longitude": 87.13599,
     "timezone": "Asia/Novokuznetsk",
-    "geonames_id": 1496990
+    "geonames_id": 1496990,
+    "region": "Центр"
   },
   {
     "id": "novosibirsk",
@@ -615,7 +651,8 @@
     "latitude": 55.03442,
     "longitude": 82.94339,
     "timezone": "Asia/Novosibirsk",
-    "geonames_id": 1496747
+    "geonames_id": 1496747,
+    "region": "Центр"
   },
   {
     "id": "norilsk",
@@ -623,7 +660,8 @@
     "latitude": 69.3535,
     "longitude": 88.2027,
     "timezone": "Asia/Krasnoyarsk",
-    "geonames_id": 1497337
+    "geonames_id": 1497337,
+    "region": "Центр"
   },
   {
     "id": "odesa",
@@ -632,7 +670,7 @@
     "longitude": 30.74383,
     "timezone": "Europe/Kyiv",
     "geonames_id": 698740,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Одесса"
   },
   {
@@ -641,7 +679,8 @@
     "latitude": 54.99244,
     "longitude": 73.36859,
     "timezone": "Asia/Omsk",
-    "geonames_id": 1496153
+    "geonames_id": 1496153,
+    "region": "Центр"
   },
   {
     "id": "orenburg",
@@ -649,7 +688,8 @@
     "latitude": 51.7727,
     "longitude": 55.0988,
     "timezone": "Asia/Yekaterinburg",
-    "geonames_id": 515003
+    "geonames_id": 515003,
+    "region": "Центр"
   },
   {
     "id": "orsha",
@@ -659,7 +699,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 624079,
     "region": "Беларусь",
-    "location": "Орша, Беларусь"
+    "location": "Орша, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "pavlohrad",
@@ -668,7 +709,7 @@
     "longitude": 35.86878,
     "timezone": "Europe/Kyiv",
     "geonames_id": 697889,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Павлоград"
   },
   {
@@ -677,7 +718,8 @@
     "latitude": 53.20066,
     "longitude": 45.00464,
     "timezone": "Europe/Moscow",
-    "geonames_id": 511565
+    "geonames_id": 511565,
+    "region": "Запад"
   },
   {
     "id": "perm",
@@ -685,7 +727,8 @@
     "latitude": 58.01046,
     "longitude": 56.25017,
     "timezone": "Asia/Yekaterinburg",
-    "geonames_id": 511196
+    "geonames_id": 511196,
+    "region": "Центр"
   },
   {
     "id": "petropavlovsk-kamchatsky",
@@ -693,7 +736,8 @@
     "latitude": 53.06393,
     "longitude": 158.62751,
     "timezone": "Asia/Kamchatka",
-    "geonames_id": 2122104
+    "geonames_id": 2122104,
+    "region": "Восток"
   },
   {
     "id": "pinsk",
@@ -703,7 +747,8 @@
     "timezone": "Europe/Minsk",
     "geonames_id": 623549,
     "region": "Беларусь",
-    "location": "Пинск, Беларусь"
+    "location": "Пинск, Беларусь",
+    "search_terms": "Запад"
   },
   {
     "id": "poltava",
@@ -712,7 +757,7 @@
     "longitude": 34.55367,
     "timezone": "Europe/Kyiv",
     "geonames_id": 696643,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Полтава"
   },
   {
@@ -722,7 +767,7 @@
     "longitude": 26.23695,
     "timezone": "Europe/Kyiv",
     "geonames_id": 695594,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Ровно"
   },
   {
@@ -731,7 +776,8 @@
     "latitude": 47.23135,
     "longitude": 39.72328,
     "timezone": "Europe/Moscow",
-    "geonames_id": 501175
+    "geonames_id": 501175,
+    "region": "Запад"
   },
   {
     "id": "ryazan",
@@ -739,7 +785,8 @@
     "latitude": 54.6269,
     "longitude": 39.6916,
     "timezone": "Europe/Moscow",
-    "geonames_id": 500096
+    "geonames_id": 500096,
+    "region": "Запад"
   },
   {
     "id": "samara",
@@ -747,7 +794,8 @@
     "latitude": 53.20007,
     "longitude": 50.15,
     "timezone": "Europe/Samara",
-    "geonames_id": 499099
+    "geonames_id": 499099,
+    "region": "Запад"
   },
   {
     "id": "saint-petersburg",
@@ -755,7 +803,8 @@
     "latitude": 59.93863,
     "longitude": 30.31413,
     "timezone": "Europe/Moscow",
-    "geonames_id": 498817
+    "geonames_id": 498817,
+    "region": "Запад"
   },
   {
     "id": "saratov",
@@ -763,7 +812,8 @@
     "latitude": 51.54056,
     "longitude": 46.00861,
     "timezone": "Europe/Saratov",
-    "geonames_id": 498677
+    "geonames_id": 498677,
+    "region": "Запад"
   },
   {
     "id": "sevastopol",
@@ -772,7 +822,7 @@
     "longitude": 33.52134,
     "timezone": "Europe/Simferopol",
     "geonames_id": 694423,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Севастополь"
   },
   {
@@ -782,7 +832,7 @@
     "longitude": 38.48624,
     "timezone": "Europe/Moscow",
     "geonames_id": 691999,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Северодонецк"
   },
   {
@@ -792,7 +842,7 @@
     "longitude": 34.11079,
     "timezone": "Europe/Simferopol",
     "geonames_id": 693805,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Симферополь"
   },
   {
@@ -802,7 +852,7 @@
     "longitude": 37.59739,
     "timezone": "Europe/Kyiv",
     "geonames_id": 693468,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Славянск"
   },
   {
@@ -811,7 +861,8 @@
     "latitude": 43.59699,
     "longitude": 39.72477,
     "timezone": "Europe/Moscow",
-    "geonames_id": 491422
+    "geonames_id": 491422,
+    "region": "Запад"
   },
   {
     "id": "stavropol",
@@ -819,7 +870,8 @@
     "latitude": 45.0428,
     "longitude": 41.9734,
     "timezone": "Europe/Moscow",
-    "geonames_id": 487846
+    "geonames_id": 487846,
+    "region": "Запад"
   },
   {
     "id": "sudak",
@@ -828,7 +880,7 @@
     "longitude": 34.97471,
     "timezone": "Europe/Simferopol",
     "geonames_id": 692315,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Судак"
   },
   {
@@ -838,7 +890,7 @@
     "longitude": 34.79906,
     "timezone": "Europe/Kyiv",
     "geonames_id": 692194,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Сумы"
   },
   {
@@ -847,7 +899,8 @@
     "latitude": 61.25757,
     "longitude": 73.41775,
     "timezone": "Asia/Yekaterinburg",
-    "geonames_id": 1490624
+    "geonames_id": 1490624,
+    "region": "Центр"
   },
   {
     "id": "ternopil",
@@ -856,7 +909,7 @@
     "longitude": 25.59067,
     "timezone": "Europe/Kyiv",
     "geonames_id": 691650,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Тернополь"
   },
   {
@@ -865,7 +918,8 @@
     "latitude": 53.5303,
     "longitude": 49.3461,
     "timezone": "Europe/Samara",
-    "geonames_id": 482283
+    "geonames_id": 482283,
+    "region": "Запад"
   },
   {
     "id": "tomsk",
@@ -873,7 +927,8 @@
     "latitude": 56.50032,
     "longitude": 84.98204,
     "timezone": "Asia/Tomsk",
-    "geonames_id": 1489425
+    "geonames_id": 1489425,
+    "region": "Центр"
   },
   {
     "id": "tyumen",
@@ -881,7 +936,8 @@
     "latitude": 57.15222,
     "longitude": 65.52722,
     "timezone": "Asia/Yekaterinburg",
-    "geonames_id": 1488754
+    "geonames_id": 1488754,
+    "region": "Центр"
   },
   {
     "id": "uzhhorod",
@@ -890,7 +946,7 @@
     "longitude": 22.2947,
     "timezone": "Europe/Kyiv",
     "geonames_id": 690548,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Ужгород"
   },
   {
@@ -899,7 +955,8 @@
     "latitude": 51.82721,
     "longitude": 107.60627,
     "timezone": "Asia/Irkutsk",
-    "geonames_id": 2014407
+    "geonames_id": 2014407,
+    "region": "Центр"
   },
   {
     "id": "ulyanovsk",
@@ -907,7 +964,8 @@
     "latitude": 54.32824,
     "longitude": 48.38657,
     "timezone": "Europe/Ulyanovsk",
-    "geonames_id": 479123
+    "geonames_id": 479123,
+    "region": "Запад"
   },
   {
     "id": "uman",
@@ -916,7 +974,7 @@
     "longitude": 30.21944,
     "timezone": "Europe/Kyiv",
     "geonames_id": 690688,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Умань"
   },
   {
@@ -925,7 +983,8 @@
     "latitude": 54.74306,
     "longitude": 55.96779,
     "timezone": "Asia/Yekaterinburg",
-    "geonames_id": 479561
+    "geonames_id": 479561,
+    "region": "Центр"
   },
   {
     "id": "feodosia",
@@ -934,7 +993,7 @@
     "longitude": 35.38153,
     "timezone": "Europe/Simferopol",
     "geonames_id": 709161,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Феодосия"
   },
   {
@@ -943,7 +1002,8 @@
     "latitude": 48.48032,
     "longitude": 135.08822,
     "timezone": "Asia/Vladivostok",
-    "geonames_id": 2022890
+    "geonames_id": 2022890,
+    "region": "Восток"
   },
   {
     "id": "kharkiv",
@@ -952,7 +1012,7 @@
     "longitude": 36.25475,
     "timezone": "Europe/Kyiv",
     "geonames_id": 706483,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Харьков"
   },
   {
@@ -962,7 +1022,7 @@
     "longitude": 32.61458,
     "timezone": "Europe/Kyiv",
     "geonames_id": 706448,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Херсон"
   },
   {
@@ -972,7 +1032,7 @@
     "longitude": 26.97936,
     "timezone": "Europe/Kyiv",
     "geonames_id": 706369,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Хмельницкий"
   },
   {
@@ -981,7 +1041,8 @@
     "latitude": 55.15402,
     "longitude": 61.42915,
     "timezone": "Asia/Yekaterinburg",
-    "geonames_id": 1508291
+    "geonames_id": 1508291,
+    "region": "Центр"
   },
   {
     "id": "cherkasy",
@@ -990,7 +1051,7 @@
     "longitude": 32.05738,
     "timezone": "Europe/Kyiv",
     "geonames_id": 710791,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Черкассы"
   },
   {
@@ -1000,7 +1061,7 @@
     "longitude": 31.28656,
     "timezone": "Europe/Kyiv",
     "geonames_id": 710735,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Чернигов"
   },
   {
@@ -1010,7 +1071,7 @@
     "longitude": 25.93241,
     "timezone": "Europe/Kyiv",
     "geonames_id": 710719,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Черновцы"
   },
   {
@@ -1019,7 +1080,8 @@
     "latitude": 52.03171,
     "longitude": 113.50087,
     "timezone": "Asia/Chita",
-    "geonames_id": 2025339
+    "geonames_id": 2025339,
+    "region": "Восток"
   },
   {
     "id": "yuzhno-sakhalinsk",
@@ -1027,7 +1089,8 @@
     "latitude": 46.95407,
     "longitude": 142.73603,
     "timezone": "Asia/Sakhalin",
-    "geonames_id": 2119441
+    "geonames_id": 2119441,
+    "region": "Восток"
   },
   {
     "id": "yakutsk",
@@ -1035,7 +1098,8 @@
     "latitude": 62.03389,
     "longitude": 129.73306,
     "timezone": "Asia/Yakutsk",
-    "geonames_id": 2013159
+    "geonames_id": 2013159,
+    "region": "Восток"
   },
   {
     "id": "yalta",
@@ -1044,7 +1108,7 @@
     "longitude": 34.16624,
     "timezone": "Europe/Simferopol",
     "geonames_id": 688533,
-    "region": "ЮГ",
+    "region": "Юг",
     "location": "Ялта"
   },
   {
@@ -1053,6 +1117,7 @@
     "latitude": 57.62987,
     "longitude": 39.87368,
     "timezone": "Europe/Moscow",
-    "geonames_id": 468902
+    "geonames_id": 468902,
+    "region": "Запад"
   }
 ]
