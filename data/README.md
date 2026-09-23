@@ -5,10 +5,22 @@
 GeoNames: https://www.geonames.org/ — CC BY 4.0 (https://www.geonames.org/export/).
 geonamescache: https://github.com/yaph/geonamescache.
 
-`land.geojson`: Natural Earth, ne_110m_land, public domain. Источник: https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_land.geojson (получен 23.09.2026). `web/map.svg` — производная карта берега в равнопромежуточной цилиндрической проекции, долготы 19–181°, широты 41–82°. Государственные границы не отображаются. Карта и шрифты локальные, внешних запросов картографическим сервисам нет.
+`land.geojson`: Natural Earth, ne_110m_land, public domain. Источник: https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_land.geojson (получен 23.09.2026). `web/map.svg` — производная карта в конической равноугольной проекции Lambert (WGS84, центральный меридиан 100°, стандартные параллели 45°/65°). Исходная линейная проекция доступна в генераторе для сравнения. Государственные границы не отображаются. Карта и шрифты локальные, внешних запросов картографическим сервисам нет.
 
 Шрифты Literata и PT Sans скопированы из brodov.net с лицензиями OFL в web/fonts.
 
 Для Донецка (GeoNames 709717) используется Europe/Moscow (фактическое UTC+3 без сезонного перевода), а не Europe/Kyiv из снимка GeoNames. Проверено 23.09.2026: https://www.timeanddate.com/time/zone/ukraine/donetsk. Для крымских городов — Europe/Simferopol, для Беларуси — Europe/Minsk. Поле location задаёт отображаемое место события независимо от часового пояса.
 
 Для остальных добавленных городов Украины используется Europe/Kyiv с сезонным переводом часов. Исключения с принятым фактическим UTC+3: Донецк, Луганск, Мариуполь, Макеевка, Горловка, Алчевск, Северодонецк, Лисичанск, Мелитополь и Бердянск. IANA-зона указывается явно в карточке; положение Солнца рассчитывается по координатам, события хранятся в UTC. Источники о киевском времени и фактическом времени на контролируемых Россией территориях: https://www.timeanddate.com/time/zone/ukraine/kyiv и https://www.timeanddate.com/time/zone/ukraine/luhansk-oblast. Местные практики могут отличаться; при изменении правил нужно обновлять каталог.
+
+## Крупная гидрография
+
+`rivers.geojson` и `lakes.geojson`: Natural Earth 1:50m, public domain, получены 23.09.2026 из официального репозитория:
+
+- [ne_50m_rivers_lake_centerlines.geojson](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_rivers_lake_centerlines.geojson)
+- [ne_50m_lakes.geojson](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_lakes.geojson)
+- [Условия использования Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/)
+
+Подготовка: `scripts/prepare_water.py`. SHA256 исходных снимков закреплены в скрипте. Реки отобраны по явному списку основных названий (включая варианты названия одной реки); сохранён 41 сегмент. Для озёр выбран охват 12–192° в.д., 32–86° с.ш. и площадь исходной геометрии от 0,35 квадратного градуса. Это фильтр генерализации изображения, не физическая площадь озера. Исключены резервуары/водохранилища; сохранены 22 геометрии источника (21 название, Зайсан представлен двумя геометриями). Берега и водоёмы — генерализованный снимок, не данные о текущем уровне воды.
+
+Подготовленные GeoJSON хранятся локально. `scripts/build_map.py` проецирует сушу, гидрографию и точки одинаково; SHA256 каждого локального слоя сохраняется в `map-projection.json`. Геометрии уже разделены Natural Earth у 180°; перед обрезкой их копии переносятся на ±360°, соседние части суши затем объединяются, чтобы внутренний шов не выглядел берегом. Границы государств и дорог не добавлены.
