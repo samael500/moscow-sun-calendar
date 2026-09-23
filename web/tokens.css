@@ -1,0 +1,4 @@
+/* Shared palette and local font assets from brodov.net/assets/style.css. */
+@font-face{font-family:Literata;src:url('fonts/literata.woff2') format('woff2');font-weight:200 900;font-style:normal;font-display:swap}
+@font-face{font-family:'PT Sans';src:url('fonts/pt-sans.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+:root{color-scheme:light;--paper:#FFFDF9;--ink:#35312F;--muted:#77675B;--line:#E9DED3;--accent:#8B593D;--apricot:#F6DFCA;--button-ink:#714A32;--nav-accent:#E8B691;--water:#EDF3F4;--land:#FAF7EE;--coast:#CFC5B7;--hydro:#B9CFD5;--city:#9F7657;--map-text:#65584D}
