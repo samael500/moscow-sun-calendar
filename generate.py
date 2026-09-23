@@ -1,4 +1,4 @@
-"""Generate finite sunrise/sunset calendars for Russian cities."""
+"""Generate finite sunrise/sunset calendars for selected cities."""
 
 import argparse
 import calendar
@@ -69,7 +69,7 @@ def build_calendar(start: date, months: int = 6, history_months: int = 6, city: 
             event.add("dtstart", instant.astimezone(timezone.utc))
             event.add("dtend", (instant + timedelta(minutes=10)).astimezone(timezone.utc))
             event.add("summary", title)
-            event.add("location", f"{city['name']}, Россия")
+            event.add("location", city.get("location", f"{city['name']}, Россия"))
             event.add("geo", (observer.latitude, observer.longitude))
             event.add("description", ("Расчёт для центра Москвы (55.7558, 37.6173), открытый горизонт. " if city["id"] == "moscow" else f"Расчёт для центра города ({observer.latitude}, {observer.longitude}), открытый горизонт. ") +
                       "Начало события — момент восхода или заката; продолжительность 10 минут. "

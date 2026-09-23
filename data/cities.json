@@ -1,5 +1,15 @@
 [
   {
+    "id": "alushta",
+    "name": "Алушта",
+    "latitude": 44.67728,
+    "longitude": 34.4097,
+    "timezone": "Europe/Simferopol",
+    "geonames_id": 713513,
+    "region": "Крым",
+    "location": "Алушта"
+  },
+  {
     "id": "anadyr",
     "name": "Анадырь",
     "latitude": 64.73424,
@@ -24,6 +34,16 @@
     "geonames_id": 580497
   },
   {
+    "id": "baranovichi",
+    "name": "Барановичи",
+    "latitude": 53.13253,
+    "longitude": 26.00774,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 630429,
+    "region": "Беларусь",
+    "location": "Барановичи, Беларусь"
+  },
+  {
     "id": "barnaul",
     "name": "Барнаул",
     "latitude": 53.3598,
@@ -38,6 +58,46 @@
     "longitude": 36.58015,
     "timezone": "Europe/Moscow",
     "geonames_id": 578072
+  },
+  {
+    "id": "bobruisk",
+    "name": "Бобруйск",
+    "latitude": 53.14636,
+    "longitude": 29.20552,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 630468,
+    "region": "Беларусь",
+    "location": "Бобруйск, Беларусь"
+  },
+  {
+    "id": "borisov",
+    "name": "Борисов",
+    "latitude": 54.2279,
+    "longitude": 28.505,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 630376,
+    "region": "Беларусь",
+    "location": "Борисов, Беларусь"
+  },
+  {
+    "id": "brest",
+    "name": "Брест",
+    "latitude": 52.10894,
+    "longitude": 23.71749,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 629634,
+    "region": "Беларусь",
+    "location": "Брест, Беларусь"
+  },
+  {
+    "id": "vitebsk",
+    "name": "Витебск",
+    "latitude": 55.1904,
+    "longitude": 30.2049,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 620127,
+    "region": "Беларусь",
+    "location": "Витебск, Беларусь"
   },
   {
     "id": "vladivostok",
@@ -62,6 +122,46 @@
     "longitude": 39.1843,
     "timezone": "Europe/Moscow",
     "geonames_id": 472045
+  },
+  {
+    "id": "gomel",
+    "name": "Гомель",
+    "latitude": 52.4345,
+    "longitude": 30.9754,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 627907,
+    "region": "Беларусь",
+    "location": "Гомель, Беларусь"
+  },
+  {
+    "id": "grodno",
+    "name": "Гродно",
+    "latitude": 53.6758,
+    "longitude": 23.82887,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 627904,
+    "region": "Беларусь",
+    "location": "Гродно, Беларусь"
+  },
+  {
+    "id": "donetsk",
+    "name": "Донецк",
+    "latitude": 48.023,
+    "longitude": 37.80224,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 709717,
+    "region": "Донецк",
+    "location": "Донецк"
+  },
+  {
+    "id": "yevpatoria",
+    "name": "Евпатория",
+    "latitude": 45.20091,
+    "longitude": 33.36655,
+    "timezone": "Europe/Simferopol",
+    "geonames_id": 688105,
+    "region": "Крым",
+    "location": "Евпатория"
   },
   {
     "id": "yekaterinburg",
@@ -112,6 +212,16 @@
     "geonames_id": 1503901
   },
   {
+    "id": "kerch",
+    "name": "Керчь",
+    "latitude": 45.35675,
+    "longitude": 36.47542,
+    "timezone": "Europe/Simferopol",
+    "geonames_id": 706524,
+    "region": "Крым",
+    "location": "Керчь"
+  },
+  {
     "id": "kirov",
     "name": "Киров",
     "latitude": 58.59665,
@@ -136,6 +246,16 @@
     "geonames_id": 1502026
   },
   {
+    "id": "lida",
+    "name": "Лида",
+    "latitude": 53.88333,
+    "longitude": 25.29972,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 626081,
+    "region": "Беларусь",
+    "location": "Лида, Беларусь"
+  },
+  {
     "id": "lipetsk",
     "name": "Липецк",
     "latitude": 52.60311,
@@ -158,6 +278,36 @@
     "longitude": 47.50236,
     "timezone": "Europe/Moscow",
     "geonames_id": 532096
+  },
+  {
+    "id": "minsk",
+    "name": "Минск",
+    "latitude": 53.90019,
+    "longitude": 27.56653,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 625144,
+    "region": "Беларусь",
+    "location": "Минск, Беларусь"
+  },
+  {
+    "id": "mogilev",
+    "name": "Могилёв",
+    "latitude": 53.90876,
+    "longitude": 30.34044,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 625665,
+    "region": "Беларусь",
+    "location": "Могилёв, Беларусь"
+  },
+  {
+    "id": "mozyr",
+    "name": "Мозырь",
+    "latitude": 52.04162,
+    "longitude": 29.21631,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 625324,
+    "region": "Беларусь",
+    "location": "Мозырь, Беларусь"
   },
   {
     "id": "moscow",
@@ -232,6 +382,16 @@
     "geonames_id": 515003
   },
   {
+    "id": "orsha",
+    "name": "Орша",
+    "latitude": 54.51362,
+    "longitude": 30.40365,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 624079,
+    "region": "Беларусь",
+    "location": "Орша, Беларусь"
+  },
+  {
     "id": "penza",
     "name": "Пенза",
     "latitude": 53.20066,
@@ -254,6 +414,16 @@
     "longitude": 158.62751,
     "timezone": "Asia/Kamchatka",
     "geonames_id": 2122104
+  },
+  {
+    "id": "pinsk",
+    "name": "Пинск",
+    "latitude": 52.12153,
+    "longitude": 26.06726,
+    "timezone": "Europe/Minsk",
+    "geonames_id": 623549,
+    "region": "Беларусь",
+    "location": "Пинск, Беларусь"
   },
   {
     "id": "rostov-on-don",
@@ -296,6 +466,26 @@
     "geonames_id": 498677
   },
   {
+    "id": "sevastopol",
+    "name": "Севастополь",
+    "latitude": 44.60795,
+    "longitude": 33.52134,
+    "timezone": "Europe/Simferopol",
+    "geonames_id": 694423,
+    "region": "Крым",
+    "location": "Севастополь"
+  },
+  {
+    "id": "simferopol",
+    "name": "Симферополь",
+    "latitude": 44.95719,
+    "longitude": 34.11079,
+    "timezone": "Europe/Simferopol",
+    "geonames_id": 693805,
+    "region": "Крым",
+    "location": "Симферополь"
+  },
+  {
     "id": "sochi",
     "name": "Сочи",
     "latitude": 43.59699,
@@ -310,6 +500,16 @@
     "longitude": 41.9734,
     "timezone": "Europe/Moscow",
     "geonames_id": 487846
+  },
+  {
+    "id": "sudak",
+    "name": "Судак",
+    "latitude": 44.84924,
+    "longitude": 34.97471,
+    "timezone": "Europe/Simferopol",
+    "geonames_id": 692315,
+    "region": "Крым",
+    "location": "Судак"
   },
   {
     "id": "surgut",
@@ -368,6 +568,16 @@
     "geonames_id": 479561
   },
   {
+    "id": "feodosia",
+    "name": "Феодосия",
+    "latitude": 45.03199,
+    "longitude": 35.38153,
+    "timezone": "Europe/Simferopol",
+    "geonames_id": 709161,
+    "region": "Крым",
+    "location": "Феодосия"
+  },
+  {
     "id": "khabarovsk",
     "name": "Хабаровск",
     "latitude": 48.48032,
@@ -406,6 +616,16 @@
     "longitude": 129.73306,
     "timezone": "Asia/Yakutsk",
     "geonames_id": 2013159
+  },
+  {
+    "id": "yalta",
+    "name": "Ялта",
+    "latitude": 44.50218,
+    "longitude": 34.16624,
+    "timezone": "Europe/Simferopol",
+    "geonames_id": 688533,
+    "region": "Крым",
+    "location": "Ялта"
   },
   {
     "id": "yaroslavl",
