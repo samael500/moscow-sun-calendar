@@ -56,3 +56,23 @@ class CalendarTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+class MultiCityTests(unittest.TestCase):
+    def test_all_cities_and_polar_dates(self):
+        from generate import cities
+        from zoneinfo import ZoneInfo
+        catalog = cities()
+        self.assertEqual(len({c['id'] for c in catalog}), len(catalog))
+        for city in catalog:
+            with self.subTest(city=city['id']):
+                events = build_calendar(date(2026, 9, 23), city=city).subcomponents
+                self.assertGreater(len(events), 500)
+                self.assertEqual(len({str(e['uid']) for e in events}), len(events))
+                tz=ZoneInfo(city['timezone'])
+                for event in events:
+                    self.assertTrue(date(2026, 3, 23) <= event.decoded('dtstart').astimezone(tz).date() < date(2027, 3, 23))
+                    self.assertEqual(event.decoded('dtend')-event.decoded('dtstart'),timedelta(minutes=10))
+        murmansk = next(c for c in catalog if c['id']=='murmansk')
+        for day in [date(2026, 6, 21),date(2026, 12, 21)]:
+            events=build_calendar(day,months=1,history_months=0,city=murmansk).subcomponents
+            self.assertFalse(any(e.decoded('dtstart').astimezone(ZoneInfo(murmansk['timezone'])).date()==day for e in events))

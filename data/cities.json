@@ -1,0 +1,418 @@
+[
+  {
+    "id": "anadyr",
+    "name": "Анадырь",
+    "latitude": 64.73424,
+    "longitude": 177.5103,
+    "timezone": "Asia/Anadyr",
+    "geonames_id": 2127202
+  },
+  {
+    "id": "arkhangelsk",
+    "name": "Архангельск",
+    "latitude": 64.54717,
+    "longitude": 40.55291,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 581049
+  },
+  {
+    "id": "astrakhan",
+    "name": "Астрахань",
+    "latitude": 46.34968,
+    "longitude": 48.04076,
+    "timezone": "Europe/Astrakhan",
+    "geonames_id": 580497
+  },
+  {
+    "id": "barnaul",
+    "name": "Барнаул",
+    "latitude": 53.3598,
+    "longitude": 83.7456,
+    "timezone": "Asia/Barnaul",
+    "geonames_id": 1510853
+  },
+  {
+    "id": "belgorod",
+    "name": "Белгород",
+    "latitude": 50.61074,
+    "longitude": 36.58015,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 578072
+  },
+  {
+    "id": "vladivostok",
+    "name": "Владивосток",
+    "latitude": 43.10562,
+    "longitude": 131.87353,
+    "timezone": "Asia/Vladivostok",
+    "geonames_id": 2013348
+  },
+  {
+    "id": "volgograd",
+    "name": "Волгоград",
+    "latitude": 48.71939,
+    "longitude": 44.50183,
+    "timezone": "Europe/Volgograd",
+    "geonames_id": 472757
+  },
+  {
+    "id": "voronezh",
+    "name": "Воронеж",
+    "latitude": 51.67204,
+    "longitude": 39.1843,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 472045
+  },
+  {
+    "id": "yekaterinburg",
+    "name": "Екатеринбург",
+    "latitude": 56.8519,
+    "longitude": 60.6122,
+    "timezone": "Asia/Yekaterinburg",
+    "geonames_id": 1486209
+  },
+  {
+    "id": "izhevsk",
+    "name": "Ижевск",
+    "latitude": 56.84976,
+    "longitude": 53.20448,
+    "timezone": "Europe/Samara",
+    "geonames_id": 554840
+  },
+  {
+    "id": "irkutsk",
+    "name": "Иркутск",
+    "latitude": 52.29795,
+    "longitude": 104.29585,
+    "timezone": "Asia/Irkutsk",
+    "geonames_id": 2023469
+  },
+  {
+    "id": "kazan",
+    "name": "Казань",
+    "latitude": 55.78874,
+    "longitude": 49.12214,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 551487
+  },
+  {
+    "id": "kaliningrad",
+    "name": "Калининград",
+    "latitude": 54.70649,
+    "longitude": 20.51095,
+    "timezone": "Europe/Kaliningrad",
+    "geonames_id": 554234
+  },
+  {
+    "id": "kemerovo",
+    "name": "Кемерово",
+    "latitude": 55.33333,
+    "longitude": 86.08333,
+    "timezone": "Asia/Novokuznetsk",
+    "geonames_id": 1503901
+  },
+  {
+    "id": "kirov",
+    "name": "Киров",
+    "latitude": 58.59665,
+    "longitude": 49.66007,
+    "timezone": "Europe/Kirov",
+    "geonames_id": 548408
+  },
+  {
+    "id": "krasnodar",
+    "name": "Краснодар",
+    "latitude": 45.04484,
+    "longitude": 38.97603,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 542420
+  },
+  {
+    "id": "krasnoyarsk",
+    "name": "Красноярск",
+    "latitude": 56.02668,
+    "longitude": 92.90765,
+    "timezone": "Asia/Krasnoyarsk",
+    "geonames_id": 1502026
+  },
+  {
+    "id": "lipetsk",
+    "name": "Липецк",
+    "latitude": 52.60311,
+    "longitude": 39.57076,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 535121
+  },
+  {
+    "id": "magadan",
+    "name": "Магадан",
+    "latitude": 59.5638,
+    "longitude": 150.80347,
+    "timezone": "Asia/Magadan",
+    "geonames_id": 2123628
+  },
+  {
+    "id": "makhachkala",
+    "name": "Махачкала",
+    "latitude": 42.97638,
+    "longitude": 47.50236,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 532096
+  },
+  {
+    "id": "moscow",
+    "name": "Москва",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 524901
+  },
+  {
+    "id": "murmansk",
+    "name": "Мурманск",
+    "latitude": 68.97398,
+    "longitude": 33.09747,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 524305
+  },
+  {
+    "id": "naberezhnye-chelny",
+    "name": "Набережные Челны",
+    "latitude": 55.72545,
+    "longitude": 52.41122,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 523750
+  },
+  {
+    "id": "nizhny-novgorod",
+    "name": "Нижний Новгород",
+    "latitude": 56.32867,
+    "longitude": 44.00205,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 520555
+  },
+  {
+    "id": "novokuznetsk",
+    "name": "Новокузнецк",
+    "latitude": 53.75752,
+    "longitude": 87.13599,
+    "timezone": "Asia/Novokuznetsk",
+    "geonames_id": 1496990
+  },
+  {
+    "id": "novosibirsk",
+    "name": "Новосибирск",
+    "latitude": 55.03442,
+    "longitude": 82.94339,
+    "timezone": "Asia/Novosibirsk",
+    "geonames_id": 1496747
+  },
+  {
+    "id": "norilsk",
+    "name": "Норильск",
+    "latitude": 69.3535,
+    "longitude": 88.2027,
+    "timezone": "Asia/Krasnoyarsk",
+    "geonames_id": 1497337
+  },
+  {
+    "id": "omsk",
+    "name": "Омск",
+    "latitude": 54.99244,
+    "longitude": 73.36859,
+    "timezone": "Asia/Omsk",
+    "geonames_id": 1496153
+  },
+  {
+    "id": "orenburg",
+    "name": "Оренбург",
+    "latitude": 51.7727,
+    "longitude": 55.0988,
+    "timezone": "Asia/Yekaterinburg",
+    "geonames_id": 515003
+  },
+  {
+    "id": "penza",
+    "name": "Пенза",
+    "latitude": 53.20066,
+    "longitude": 45.00464,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 511565
+  },
+  {
+    "id": "perm",
+    "name": "Пермь",
+    "latitude": 58.01046,
+    "longitude": 56.25017,
+    "timezone": "Asia/Yekaterinburg",
+    "geonames_id": 511196
+  },
+  {
+    "id": "petropavlovsk-kamchatsky",
+    "name": "Петропавловск-Камчатский",
+    "latitude": 53.06393,
+    "longitude": 158.62751,
+    "timezone": "Asia/Kamchatka",
+    "geonames_id": 2122104
+  },
+  {
+    "id": "rostov-on-don",
+    "name": "Ростов-на-Дону",
+    "latitude": 47.23135,
+    "longitude": 39.72328,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 501175
+  },
+  {
+    "id": "ryazan",
+    "name": "Рязань",
+    "latitude": 54.6269,
+    "longitude": 39.6916,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 500096
+  },
+  {
+    "id": "samara",
+    "name": "Самара",
+    "latitude": 53.20007,
+    "longitude": 50.15,
+    "timezone": "Europe/Samara",
+    "geonames_id": 499099
+  },
+  {
+    "id": "saint-petersburg",
+    "name": "Санкт-Петербург",
+    "latitude": 59.93863,
+    "longitude": 30.31413,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 498817
+  },
+  {
+    "id": "saratov",
+    "name": "Саратов",
+    "latitude": 51.54056,
+    "longitude": 46.00861,
+    "timezone": "Europe/Saratov",
+    "geonames_id": 498677
+  },
+  {
+    "id": "sochi",
+    "name": "Сочи",
+    "latitude": 43.59699,
+    "longitude": 39.72477,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 491422
+  },
+  {
+    "id": "stavropol",
+    "name": "Ставрополь",
+    "latitude": 45.0428,
+    "longitude": 41.9734,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 487846
+  },
+  {
+    "id": "surgut",
+    "name": "Сургут",
+    "latitude": 61.25757,
+    "longitude": 73.41775,
+    "timezone": "Asia/Yekaterinburg",
+    "geonames_id": 1490624
+  },
+  {
+    "id": "tolyatti",
+    "name": "Тольятти",
+    "latitude": 53.5303,
+    "longitude": 49.3461,
+    "timezone": "Europe/Samara",
+    "geonames_id": 482283
+  },
+  {
+    "id": "tomsk",
+    "name": "Томск",
+    "latitude": 56.50032,
+    "longitude": 84.98204,
+    "timezone": "Asia/Tomsk",
+    "geonames_id": 1489425
+  },
+  {
+    "id": "tyumen",
+    "name": "Тюмень",
+    "latitude": 57.15222,
+    "longitude": 65.52722,
+    "timezone": "Asia/Yekaterinburg",
+    "geonames_id": 1488754
+  },
+  {
+    "id": "ulan-ude",
+    "name": "Улан-Удэ",
+    "latitude": 51.82721,
+    "longitude": 107.60627,
+    "timezone": "Asia/Irkutsk",
+    "geonames_id": 2014407
+  },
+  {
+    "id": "ulyanovsk",
+    "name": "Ульяновск",
+    "latitude": 54.32824,
+    "longitude": 48.38657,
+    "timezone": "Europe/Ulyanovsk",
+    "geonames_id": 479123
+  },
+  {
+    "id": "ufa",
+    "name": "Уфа",
+    "latitude": 54.74306,
+    "longitude": 55.96779,
+    "timezone": "Asia/Yekaterinburg",
+    "geonames_id": 479561
+  },
+  {
+    "id": "khabarovsk",
+    "name": "Хабаровск",
+    "latitude": 48.48032,
+    "longitude": 135.08822,
+    "timezone": "Asia/Vladivostok",
+    "geonames_id": 2022890
+  },
+  {
+    "id": "chelyabinsk",
+    "name": "Челябинск",
+    "latitude": 55.15402,
+    "longitude": 61.42915,
+    "timezone": "Asia/Yekaterinburg",
+    "geonames_id": 1508291
+  },
+  {
+    "id": "chita",
+    "name": "Чита",
+    "latitude": 52.03171,
+    "longitude": 113.50087,
+    "timezone": "Asia/Chita",
+    "geonames_id": 2025339
+  },
+  {
+    "id": "yuzhno-sakhalinsk",
+    "name": "Южно-Сахалинск",
+    "latitude": 46.95407,
+    "longitude": 142.73603,
+    "timezone": "Asia/Sakhalin",
+    "geonames_id": 2119441
+  },
+  {
+    "id": "yakutsk",
+    "name": "Якутск",
+    "latitude": 62.03389,
+    "longitude": 129.73306,
+    "timezone": "Asia/Yakutsk",
+    "geonames_id": 2013159
+  },
+  {
+    "id": "yaroslavl",
+    "name": "Ярославль",
+    "latitude": 57.62987,
+    "longitude": 39.87368,
+    "timezone": "Europe/Moscow",
+    "geonames_id": 468902
+  }
+]
