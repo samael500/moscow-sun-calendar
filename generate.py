@@ -9,7 +9,7 @@ from zoneinfo import ZoneInfo
 
 from astral import Observer
 from astral.sun import sunrise, sunset
-from icalendar import Calendar, Event
+from icalendar import Calendar, Event, vDuration
 
 MOSCOW = ZoneInfo("Europe/Moscow")
 OBSERVER = Observer(latitude=55.7558, longitude=37.6173, elevation=0)
@@ -33,7 +33,7 @@ def build_calendar(start: date, months: int = 6) -> Calendar:
     result.add("x-wr-calname", "Москва — восходы и закаты")
     result.add("x-wr-timezone", "Europe/Moscow")
     result.add("x-wr-caldesc", "Восходы и закаты Москвы на ближайшие 6 месяцев. События по 10 минут.")
-    result.add("refresh-interval", timedelta(days=1))
+    result.add("refresh-interval", vDuration(timedelta(days=1)), parameters={"VALUE": "DURATION"})
     result.add("x-published-ttl", "P1D")
     result.add("url", f"{BASE_URL}/moscow.ics")
     day = start

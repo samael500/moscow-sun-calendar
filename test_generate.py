@@ -14,6 +14,7 @@ class CalendarTests(unittest.TestCase):
     def test_finite_valid_calendar(self):
         start = date(2026, 9, 23)
         raw = build_calendar(start).to_ical()
+        self.assertIn(b"REFRESH-INTERVAL;VALUE=DURATION:P1D\r\n", raw)
         events = Calendar.from_ical(raw).walk("VEVENT")
         self.assertEqual(len(events), (date(2027, 3, 23) - start).days * 2)
         self.assertEqual(len({str(e["uid"]) for e in events}), len(events))
