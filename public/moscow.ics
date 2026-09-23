@@ -1,0 +1,6529 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Moscow Sun Calendar//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Восходы и закаты Москвы на ближай
+ шие 6 месяцев. События по 10 минут.
+X-WR-CALNAME:Москва — восходы и закаты
+REFRESH-INTERVAL:1 day\, 0:00:00
+URL:https://samael500.github.io/moscow-sun-calendar/moscow.ics
+X-PUBLISHED-TTL:P1D
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20260923T031700Z
+DTEND:20260923T032700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-09-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20260923T152600Z
+DTEND:20260923T153600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-09-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20260924T031900Z
+DTEND:20260924T032900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-09-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20260924T152300Z
+DTEND:20260924T153300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-09-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20260925T032100Z
+DTEND:20260925T033100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-09-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20260925T152100Z
+DTEND:20260925T153100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-09-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20260926T032300Z
+DTEND:20260926T033300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-09-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20260926T151800Z
+DTEND:20260926T152800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-09-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20260927T032500Z
+DTEND:20260927T033500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-09-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20260927T151600Z
+DTEND:20260927T152600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-09-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20260928T032600Z
+DTEND:20260928T033600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-09-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20260928T151300Z
+DTEND:20260928T152300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-09-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20260929T032800Z
+DTEND:20260929T033800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-09-29@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20260929T151000Z
+DTEND:20260929T152000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-09-29@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20260930T033000Z
+DTEND:20260930T034000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-09-30@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20260930T150800Z
+DTEND:20260930T151800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-09-30@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261001T033200Z
+DTEND:20261001T034200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261001T150500Z
+DTEND:20261001T151500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261002T033400Z
+DTEND:20261002T034400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261002T150200Z
+DTEND:20261002T151200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261003T033600Z
+DTEND:20261003T034600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261003T150000Z
+DTEND:20261003T151000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261004T033800Z
+DTEND:20261004T034800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261004T145700Z
+DTEND:20261004T150700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261005T034000Z
+DTEND:20261005T035000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261005T145500Z
+DTEND:20261005T150500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261006T034200Z
+DTEND:20261006T035200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261006T145200Z
+DTEND:20261006T150200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261007T034400Z
+DTEND:20261007T035400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261007T145000Z
+DTEND:20261007T150000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261008T034600Z
+DTEND:20261008T035600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261008T144700Z
+DTEND:20261008T145700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261009T034800Z
+DTEND:20261009T035800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261009T144400Z
+DTEND:20261009T145400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261010T035000Z
+DTEND:20261010T040000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261010T144200Z
+DTEND:20261010T145200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261011T035200Z
+DTEND:20261011T040200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261011T143900Z
+DTEND:20261011T144900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261012T035400Z
+DTEND:20261012T040400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261012T143700Z
+DTEND:20261012T144700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261013T035600Z
+DTEND:20261013T040600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261013T143400Z
+DTEND:20261013T144400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261014T035800Z
+DTEND:20261014T040800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261014T143200Z
+DTEND:20261014T144200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261015T040000Z
+DTEND:20261015T041000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261015T142900Z
+DTEND:20261015T143900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261016T040200Z
+DTEND:20261016T041200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261016T142700Z
+DTEND:20261016T143700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261017T040400Z
+DTEND:20261017T041400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261017T142400Z
+DTEND:20261017T143400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261018T040600Z
+DTEND:20261018T041600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261018T142200Z
+DTEND:20261018T143200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261019T040800Z
+DTEND:20261019T041800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261019T142000Z
+DTEND:20261019T143000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261020T041100Z
+DTEND:20261020T042100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261020T141700Z
+DTEND:20261020T142700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261021T041300Z
+DTEND:20261021T042300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261021T141500Z
+DTEND:20261021T142500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261022T041500Z
+DTEND:20261022T042500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261022T141200Z
+DTEND:20261022T142200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261023T041700Z
+DTEND:20261023T042700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261023T141000Z
+DTEND:20261023T142000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261024T041900Z
+DTEND:20261024T042900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261024T140800Z
+DTEND:20261024T141800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261025T042100Z
+DTEND:20261025T043100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261025T140500Z
+DTEND:20261025T141500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261026T042300Z
+DTEND:20261026T043300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261026T140300Z
+DTEND:20261026T141300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261027T042500Z
+DTEND:20261027T043500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261027T140100Z
+DTEND:20261027T141100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261028T042700Z
+DTEND:20261028T043700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261028T135800Z
+DTEND:20261028T140800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261029T042900Z
+DTEND:20261029T043900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-29@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261029T135600Z
+DTEND:20261029T140600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-29@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261030T043100Z
+DTEND:20261030T044100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-30@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261030T135400Z
+DTEND:20261030T140400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-30@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261031T043400Z
+DTEND:20261031T044400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-10-31@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261031T135200Z
+DTEND:20261031T140200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-10-31@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261101T043600Z
+DTEND:20261101T044600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261101T135000Z
+DTEND:20261101T140000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261102T043800Z
+DTEND:20261102T044800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261102T134800Z
+DTEND:20261102T135800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261103T044000Z
+DTEND:20261103T045000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261103T134500Z
+DTEND:20261103T135500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261104T044200Z
+DTEND:20261104T045200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261104T134300Z
+DTEND:20261104T135300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261105T044400Z
+DTEND:20261105T045400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261105T134100Z
+DTEND:20261105T135100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261106T044600Z
+DTEND:20261106T045600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261106T133900Z
+DTEND:20261106T134900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261107T044800Z
+DTEND:20261107T045800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261107T133700Z
+DTEND:20261107T134700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261108T045000Z
+DTEND:20261108T050000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261108T133500Z
+DTEND:20261108T134500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261109T045200Z
+DTEND:20261109T050200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261109T133300Z
+DTEND:20261109T134300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261110T045500Z
+DTEND:20261110T050500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261110T133100Z
+DTEND:20261110T134100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261111T045700Z
+DTEND:20261111T050700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261111T133000Z
+DTEND:20261111T134000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261112T045900Z
+DTEND:20261112T050900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261112T132800Z
+DTEND:20261112T133800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261113T050100Z
+DTEND:20261113T051100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261113T132600Z
+DTEND:20261113T133600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261114T050300Z
+DTEND:20261114T051300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261114T132400Z
+DTEND:20261114T133400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261115T050500Z
+DTEND:20261115T051500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261115T132300Z
+DTEND:20261115T133300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261116T050700Z
+DTEND:20261116T051700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261116T132100Z
+DTEND:20261116T133100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261117T050900Z
+DTEND:20261117T051900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261117T131900Z
+DTEND:20261117T132900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261118T051100Z
+DTEND:20261118T052100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261118T131800Z
+DTEND:20261118T132800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261119T051300Z
+DTEND:20261119T052300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261119T131600Z
+DTEND:20261119T132600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261120T051500Z
+DTEND:20261120T052500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261120T131500Z
+DTEND:20261120T132500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261121T051700Z
+DTEND:20261121T052700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261121T131300Z
+DTEND:20261121T132300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261122T051900Z
+DTEND:20261122T052900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261122T131200Z
+DTEND:20261122T132200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261123T052100Z
+DTEND:20261123T053100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261123T131000Z
+DTEND:20261123T132000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261124T052300Z
+DTEND:20261124T053300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261124T130900Z
+DTEND:20261124T131900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261125T052500Z
+DTEND:20261125T053500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261125T130800Z
+DTEND:20261125T131800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261126T052600Z
+DTEND:20261126T053600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261126T130700Z
+DTEND:20261126T131700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261127T052800Z
+DTEND:20261127T053800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261127T130600Z
+DTEND:20261127T131600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261128T053000Z
+DTEND:20261128T054000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261128T130500Z
+DTEND:20261128T131500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261129T053200Z
+DTEND:20261129T054200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-29@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261129T130300Z
+DTEND:20261129T131300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-29@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261130T053300Z
+DTEND:20261130T054300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-11-30@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261130T130300Z
+DTEND:20261130T131300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-11-30@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261201T053500Z
+DTEND:20261201T054500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261201T130200Z
+DTEND:20261201T131200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261202T053700Z
+DTEND:20261202T054700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261202T130100Z
+DTEND:20261202T131100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261203T053800Z
+DTEND:20261203T054800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261203T130000Z
+DTEND:20261203T131000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261204T054000Z
+DTEND:20261204T055000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261204T125900Z
+DTEND:20261204T130900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261205T054100Z
+DTEND:20261205T055100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261205T125900Z
+DTEND:20261205T130900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261206T054300Z
+DTEND:20261206T055300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261206T125800Z
+DTEND:20261206T130800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261207T054400Z
+DTEND:20261207T055400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261207T125700Z
+DTEND:20261207T130700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261208T054600Z
+DTEND:20261208T055600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261208T125700Z
+DTEND:20261208T130700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261209T054700Z
+DTEND:20261209T055700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261209T125700Z
+DTEND:20261209T130700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261210T054800Z
+DTEND:20261210T055800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261210T125600Z
+DTEND:20261210T130600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261211T054900Z
+DTEND:20261211T055900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261211T125600Z
+DTEND:20261211T130600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261212T055000Z
+DTEND:20261212T060000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261212T125600Z
+DTEND:20261212T130600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261213T055100Z
+DTEND:20261213T060100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261213T125600Z
+DTEND:20261213T130600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261214T055200Z
+DTEND:20261214T060200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261214T125600Z
+DTEND:20261214T130600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261215T055300Z
+DTEND:20261215T060300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261215T125600Z
+DTEND:20261215T130600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261216T055400Z
+DTEND:20261216T060400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261216T125600Z
+DTEND:20261216T130600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261217T055500Z
+DTEND:20261217T060500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261217T125600Z
+DTEND:20261217T130600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261218T055600Z
+DTEND:20261218T060600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261218T125600Z
+DTEND:20261218T130600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261219T055700Z
+DTEND:20261219T060700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261219T125600Z
+DTEND:20261219T130600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261220T055700Z
+DTEND:20261220T060700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261220T125700Z
+DTEND:20261220T130700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261221T055800Z
+DTEND:20261221T060800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261221T125700Z
+DTEND:20261221T130700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261222T055800Z
+DTEND:20261222T060800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261222T125800Z
+DTEND:20261222T130800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261223T055900Z
+DTEND:20261223T060900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261223T125800Z
+DTEND:20261223T130800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261224T055900Z
+DTEND:20261224T060900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261224T125900Z
+DTEND:20261224T130900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261225T055900Z
+DTEND:20261225T060900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261225T130000Z
+DTEND:20261225T131000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261226T060000Z
+DTEND:20261226T061000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261226T130000Z
+DTEND:20261226T131000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261227T060000Z
+DTEND:20261227T061000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261227T130100Z
+DTEND:20261227T131100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261228T060000Z
+DTEND:20261228T061000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261228T130200Z
+DTEND:20261228T131200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261229T060000Z
+DTEND:20261229T061000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-29@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261229T130300Z
+DTEND:20261229T131300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-29@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261230T060000Z
+DTEND:20261230T061000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-30@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261230T130400Z
+DTEND:20261230T131400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-30@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20261231T060000Z
+DTEND:20261231T061000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2026-12-31@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20261231T130500Z
+DTEND:20261231T131500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2026-12-31@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270101T060000Z
+DTEND:20270101T061000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270101T130600Z
+DTEND:20270101T131600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270102T055900Z
+DTEND:20270102T060900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270102T130800Z
+DTEND:20270102T131800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270103T055900Z
+DTEND:20270103T060900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270103T130900Z
+DTEND:20270103T131900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270104T055900Z
+DTEND:20270104T060900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270104T131000Z
+DTEND:20270104T132000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270105T055800Z
+DTEND:20270105T060800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270105T131200Z
+DTEND:20270105T132200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270106T055800Z
+DTEND:20270106T060800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270106T131300Z
+DTEND:20270106T132300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270107T055700Z
+DTEND:20270107T060700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270107T131500Z
+DTEND:20270107T132500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270108T055600Z
+DTEND:20270108T060600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270108T131600Z
+DTEND:20270108T132600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270109T055600Z
+DTEND:20270109T060600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270109T131800Z
+DTEND:20270109T132800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270110T055500Z
+DTEND:20270110T060500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270110T131900Z
+DTEND:20270110T132900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270111T055400Z
+DTEND:20270111T060400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270111T132100Z
+DTEND:20270111T133100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270112T055300Z
+DTEND:20270112T060300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270112T132300Z
+DTEND:20270112T133300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270113T055200Z
+DTEND:20270113T060200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270113T132400Z
+DTEND:20270113T133400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270114T055100Z
+DTEND:20270114T060100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270114T132600Z
+DTEND:20270114T133600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270115T055000Z
+DTEND:20270115T060000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270115T132800Z
+DTEND:20270115T133800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270116T054900Z
+DTEND:20270116T055900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270116T133000Z
+DTEND:20270116T134000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270117T054800Z
+DTEND:20270117T055800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270117T133200Z
+DTEND:20270117T134200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270118T054700Z
+DTEND:20270118T055700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270118T133400Z
+DTEND:20270118T134400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270119T054500Z
+DTEND:20270119T055500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270119T133600Z
+DTEND:20270119T134600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270120T054400Z
+DTEND:20270120T055400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270120T133700Z
+DTEND:20270120T134700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270121T054300Z
+DTEND:20270121T055300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270121T133900Z
+DTEND:20270121T134900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270122T054100Z
+DTEND:20270122T055100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270122T134100Z
+DTEND:20270122T135100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270123T054000Z
+DTEND:20270123T055000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270123T134300Z
+DTEND:20270123T135300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270124T053800Z
+DTEND:20270124T054800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270124T134600Z
+DTEND:20270124T135600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270125T053700Z
+DTEND:20270125T054700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270125T134800Z
+DTEND:20270125T135800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270126T053500Z
+DTEND:20270126T054500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270126T135000Z
+DTEND:20270126T140000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270127T053300Z
+DTEND:20270127T054300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270127T135200Z
+DTEND:20270127T140200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270128T053200Z
+DTEND:20270128T054200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270128T135400Z
+DTEND:20270128T140400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270129T053000Z
+DTEND:20270129T054000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-29@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270129T135600Z
+DTEND:20270129T140600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-29@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270130T052800Z
+DTEND:20270130T053800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-30@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270130T135800Z
+DTEND:20270130T140800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-30@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270131T052600Z
+DTEND:20270131T053600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-01-31@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270131T140000Z
+DTEND:20270131T141000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-01-31@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270201T052400Z
+DTEND:20270201T053400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270201T140200Z
+DTEND:20270201T141200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270202T052300Z
+DTEND:20270202T053300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270202T140500Z
+DTEND:20270202T141500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270203T052100Z
+DTEND:20270203T053100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270203T140700Z
+DTEND:20270203T141700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270204T051900Z
+DTEND:20270204T052900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270204T140900Z
+DTEND:20270204T141900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270205T051700Z
+DTEND:20270205T052700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270205T141100Z
+DTEND:20270205T142100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270206T051500Z
+DTEND:20270206T052500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270206T141300Z
+DTEND:20270206T142300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270207T051300Z
+DTEND:20270207T052300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270207T141500Z
+DTEND:20270207T142500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270208T051100Z
+DTEND:20270208T052100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270208T141800Z
+DTEND:20270208T142800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270209T050800Z
+DTEND:20270209T051800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270209T142000Z
+DTEND:20270209T143000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270210T050600Z
+DTEND:20270210T051600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270210T142200Z
+DTEND:20270210T143200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270211T050400Z
+DTEND:20270211T051400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270211T142400Z
+DTEND:20270211T143400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270212T050200Z
+DTEND:20270212T051200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270212T142600Z
+DTEND:20270212T143600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270213T050000Z
+DTEND:20270213T051000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270213T142900Z
+DTEND:20270213T143900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270214T045800Z
+DTEND:20270214T050800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270214T143100Z
+DTEND:20270214T144100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270215T045500Z
+DTEND:20270215T050500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270215T143300Z
+DTEND:20270215T144300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270216T045300Z
+DTEND:20270216T050300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270216T143500Z
+DTEND:20270216T144500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270217T045100Z
+DTEND:20270217T050100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270217T143700Z
+DTEND:20270217T144700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270218T044800Z
+DTEND:20270218T045800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270218T143900Z
+DTEND:20270218T144900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270219T044600Z
+DTEND:20270219T045600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270219T144200Z
+DTEND:20270219T145200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270220T044400Z
+DTEND:20270220T045400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270220T144400Z
+DTEND:20270220T145400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270221T044100Z
+DTEND:20270221T045100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270221T144600Z
+DTEND:20270221T145600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270222T043900Z
+DTEND:20270222T044900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270222T144800Z
+DTEND:20270222T145800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270223T043700Z
+DTEND:20270223T044700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270223T145000Z
+DTEND:20270223T150000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-23@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270224T043400Z
+DTEND:20270224T044400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270224T145200Z
+DTEND:20270224T150200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-24@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270225T043200Z
+DTEND:20270225T044200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270225T145400Z
+DTEND:20270225T150400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-25@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270226T042900Z
+DTEND:20270226T043900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270226T145700Z
+DTEND:20270226T150700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-26@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270227T042700Z
+DTEND:20270227T043700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270227T145900Z
+DTEND:20270227T150900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-27@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270228T042400Z
+DTEND:20270228T043400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-02-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270228T150100Z
+DTEND:20270228T151100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-02-28@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270301T042200Z
+DTEND:20270301T043200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270301T150300Z
+DTEND:20270301T151300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-01@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270302T041900Z
+DTEND:20270302T042900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270302T150500Z
+DTEND:20270302T151500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-02@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270303T041700Z
+DTEND:20270303T042700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270303T150700Z
+DTEND:20270303T151700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-03@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270304T041400Z
+DTEND:20270304T042400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270304T150900Z
+DTEND:20270304T151900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-04@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270305T041200Z
+DTEND:20270305T042200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270305T151100Z
+DTEND:20270305T152100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-05@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270306T040900Z
+DTEND:20270306T041900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270306T151300Z
+DTEND:20270306T152300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-06@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270307T040700Z
+DTEND:20270307T041700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270307T151500Z
+DTEND:20270307T152500Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-07@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270308T040400Z
+DTEND:20270308T041400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270308T151800Z
+DTEND:20270308T152800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-08@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270309T040200Z
+DTEND:20270309T041200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270309T152000Z
+DTEND:20270309T153000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-09@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270310T035900Z
+DTEND:20270310T040900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270310T152200Z
+DTEND:20270310T153200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-10@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270311T035700Z
+DTEND:20270311T040700Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270311T152400Z
+DTEND:20270311T153400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-11@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270312T035400Z
+DTEND:20270312T040400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270312T152600Z
+DTEND:20270312T153600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-12@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270313T035100Z
+DTEND:20270313T040100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270313T152800Z
+DTEND:20270313T153800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-13@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270314T034900Z
+DTEND:20270314T035900Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270314T153000Z
+DTEND:20270314T154000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-14@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270315T034600Z
+DTEND:20270315T035600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270315T153200Z
+DTEND:20270315T154200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-15@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270316T034400Z
+DTEND:20270316T035400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270316T153400Z
+DTEND:20270316T154400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-16@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270317T034100Z
+DTEND:20270317T035100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270317T153600Z
+DTEND:20270317T154600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-17@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270318T033800Z
+DTEND:20270318T034800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270318T153800Z
+DTEND:20270318T154800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-18@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270319T033600Z
+DTEND:20270319T034600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270319T154000Z
+DTEND:20270319T155000Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-19@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270320T033300Z
+DTEND:20270320T034300Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270320T154200Z
+DTEND:20270320T155200Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-20@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270321T033100Z
+DTEND:20270321T034100Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270321T154400Z
+DTEND:20270321T155400Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-21@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Восход солнца · Москва
+DTSTART:20270322T032800Z
+DTEND:20270322T033800Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunrise-2027-03-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Закат · Москва
+DTSTART:20270322T154600Z
+DTEND:20270322T155600Z
+DTSTAMP:20260101T000000Z
+UID:moscow-sunset-2027-03-22@samael500.github.io
+SEQUENCE:0
+DESCRIPTION:Расчёт для центра Москвы (55.7558\, 37.61
+ 73)\, открытый горизонт. Начало события — 
+ момент восхода или заката\; продолжитель
+ ность 10 минут. Рельеф\, здания и фактичес
+ кая погода не учитываются. Время округле
+ но до минуты.
+GEO:55.7558;37.6173
+LOCATION:Москва\, Россия
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

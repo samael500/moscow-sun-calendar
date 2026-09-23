@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ru">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Восходы и закаты Москвы — календарь</title>
+<style>
+body{font:18px/1.65 system-ui,sans-serif;max-width:700px;margin:8vh auto;padding:24px;color:#242c3c;background:#fff9ef}h1{line-height:1.15;font-size:clamp(32px,6vw,52px)}a{color:#9b3d15}code{overflow-wrap:anywhere;font-size:14px}small{color:#62646b}
+</style>
+<h1>Восходы и закаты Москвы</h1>
+<p>Два события в день, каждое по 10 минут. Ближайшие полгода, с ежедневным обновлением.</p>
+<p><a href="webcal://samael500.github.io/moscow-sun-calendar/moscow.ics">Подписаться на календарь</a> · <a href="moscow.ics">Скачать ICS</a></p>
+<p>Для Google Calendar откройте в браузере «Другие календари» → «+» → «Добавить по URL» и вставьте:</p>
+<p><code>https://samael500.github.io/moscow-sun-calendar/moscow.ics</code></p>
+<p>Подписка получает новые даты автоматически. Скачивание и импорт файла создают разовую копию. Частоту синхронизации определяет приложение календаря.</p>
+<p id="range"></p>
+<p><small>«Рассвет» здесь означает восход солнца. Событие начинается в момент восхода или заката. Расчёт для центра Москвы и открытого горизонта; здания и погода могут изменить наблюдаемое время. События не блокируют занятость и не содержат напоминаний. В приложении время отображается в выбранном вами часовом поясе.</small></p>
+<p><a href="https://github.com/samael500/moscow-sun-calendar">Исходный код и настройка</a></p>
+<script>
+fetch('moscow.json').then(r=>r.json()).then(m=>{
+ const f=s=>s.split('-').reverse().join('.');
+ document.getElementById('range').textContent=`Обновлено ${f(m.from)}. Период: с ${f(m.from)} до ${f(m.until_exclusive)} (не включая), ${m.events} событий.`;
+}).catch(()=>{});
+</script>
+</html>
