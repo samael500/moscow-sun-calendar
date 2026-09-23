@@ -7,7 +7,7 @@ X-WR-CALDESC:Восходы и закаты Москвы на ближай
  шие 6 месяцев. События по 10 минут.
 X-WR-CALNAME:Москва — восходы и закаты
 REFRESH-INTERVAL:1 day\, 0:00:00
-URL:https://samael500.github.io/moscow-sun-calendar/moscow.ics
+URL:https://maks.live/moscow-sun-calendar/moscow.ics
 X-PUBLISHED-TTL:P1D
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT

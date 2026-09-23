@@ -13,7 +13,7 @@ from icalendar import Calendar, Event
 
 MOSCOW = ZoneInfo("Europe/Moscow")
 OBSERVER = Observer(latitude=55.7558, longitude=37.6173, elevation=0)
-BASE_URL = "https://samael500.github.io/moscow-sun-calendar"
+BASE_URL = "https://maks.live/moscow-sun-calendar"
 
 
 def add_months(day: date, months: int) -> date:
@@ -69,7 +69,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--start", type=date.fromisoformat, default=None)
     parser.add_argument("--months", type=int, default=6)
-    parser.add_argument("--output", type=Path, default=Path("public/moscow.ics"))
+    parser.add_argument("--output", type=Path, default=Path("docs/moscow.ics"))
     args = parser.parse_args()
     start = args.start or datetime.now(MOSCOW).date()
     result = build_calendar(start, args.months)
