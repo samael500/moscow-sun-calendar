@@ -22,9 +22,11 @@ def add_months(day: date, months: int) -> date:
     return date(year, month, min(day.day, calendar.monthrange(year, month)[1]))
 
 
-def build_calendar(start: date, months: int = 6) -> Calendar:
+def build_calendar(start: date, months: int = 6, history_months: int = 6) -> Calendar:
     if not 1 <= months <= 12:
         raise ValueError("months must be between 1 and 12")
+    if not 0 <= history_months <= 12:
+        raise ValueError("history_months must be between 0 and 12")
     result = Calendar()
     result.add("prodid", "-//Moscow Sun Calendar//RU")
     result.add("version", "2.0")
@@ -32,11 +34,11 @@ def build_calendar(start: date, months: int = 6) -> Calendar:
     result.add("method", "PUBLISH")
     result.add("x-wr-calname", "Москва — восходы и закаты")
     result.add("x-wr-timezone", "Europe/Moscow")
-    result.add("x-wr-caldesc", "Восходы и закаты Москвы на ближайшие 6 месяцев. События по 10 минут.")
+    result.add("x-wr-caldesc", f"Восходы и закаты Москвы: {history_months} месяцев назад и {months} вперёд. События по 10 минут.")
     result.add("refresh-interval", vDuration(timedelta(days=1)), parameters={"VALUE": "DURATION"})
     result.add("x-published-ttl", "P1D")
     result.add("url", f"{BASE_URL}/moscow.ics")
-    day = start
+    day = add_months(start, -history_months)
     while day < add_months(start, months):
         for kind, title, calculate in (
             ("sunrise", "Восход солнца · Москва", sunrise),
@@ -67,16 +69,18 @@ def build_calendar(start: date, months: int = 6) -> Calendar:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--start", type=date.fromisoformat, default=None)
+    parser.add_argument("--start", type=date.fromisoformat, default=None, help="Reference date (default: today in Moscow)")
     parser.add_argument("--months", type=int, default=6)
+    parser.add_argument("--history-months", type=int, default=6)
     parser.add_argument("--output", type=Path, default=Path("docs/moscow.ics"))
     args = parser.parse_args()
     start = args.start or datetime.now(MOSCOW).date()
-    result = build_calendar(start, args.months)
+    result = build_calendar(start, args.months, args.history_months)
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_bytes(result.to_ical())
     metadata = {
-        "from": start.isoformat(), "until_exclusive": add_months(start, args.months).isoformat(),
+        "updated": datetime.now(MOSCOW).date().isoformat(),
+        "from": add_months(start, -args.history_months).isoformat(), "until_exclusive": add_months(start, args.months).isoformat(),
         "events": len(result.subcomponents), "timezone": "Europe/Moscow",
     }
     args.output.with_suffix(".json").write_text(json.dumps(metadata, indent=2) + "\n")

@@ -11,16 +11,26 @@ class CalendarTests(unittest.TestCase):
         self.assertEqual(add_months(date(2027, 8, 31), 6), date(2028, 2, 29))
         self.assertEqual(add_months(date(2026, 8, 31), 6), date(2027, 2, 28))
 
+    def test_history_preserves_future_and_month_end(self):
+        anchor = date(2026, 8, 31)
+        events = build_calendar(anchor).subcomponents
+        self.assertEqual(events[0].decoded("dtstart").astimezone(MOSCOW).date(), date(2026, 2, 28))
+        self.assertEqual(events[-1].decoded("dtstart").astimezone(MOSCOW).date(), date(2027, 2, 27))
+        future = build_calendar(anchor, history_months=0).subcomponents
+        by_uid = {str(e["uid"]): e.to_ical() for e in events}
+        for event in future:
+            self.assertEqual(by_uid[str(event["uid"])], event.to_ical())
+
     def test_finite_valid_calendar(self):
         start = date(2026, 9, 23)
         raw = build_calendar(start).to_ical()
         self.assertIn(b"REFRESH-INTERVAL;VALUE=DURATION:P1D\r\n", raw)
         events = Calendar.from_ical(raw).walk("VEVENT")
-        self.assertEqual(len(events), (date(2027, 3, 23) - start).days * 2)
+        self.assertEqual(len(events), (date(2027, 3, 23) - date(2026, 3, 23)).days * 2)
         self.assertEqual(len({str(e["uid"]) for e in events}), len(events))
         for event in events:
             instant = event.decoded("dtstart")
-            self.assertTrue(start <= instant.astimezone(MOSCOW).date() < date(2027, 3, 23))
+            self.assertTrue(date(2026, 3, 23) <= instant.astimezone(MOSCOW).date() < date(2027, 3, 23))
             self.assertEqual(event.decoded("dtend") - instant, timedelta(minutes=10))
             self.assertNotIn("rrule", event)
             self.assertIsNotNone(instant.tzinfo)
@@ -37,10 +47,10 @@ class CalendarTests(unittest.TestCase):
 
     def test_moscow_seasons_and_leap_day(self):
         for day, rise_hour, set_hour in ((date(2027, 6, 21), 3, 21), (date(2026, 12, 21), 8, 15)):
-            events = build_calendar(day, 1).subcomponents
+            events = build_calendar(day, 1, history_months=0).subcomponents
             self.assertEqual(events[0].decoded("dtstart").astimezone(MOSCOW).hour, rise_hour)
             self.assertEqual(events[1].decoded("dtstart").astimezone(MOSCOW).hour, set_hour)
-        events = build_calendar(date(2028, 2, 28), 1).subcomponents
+        events = build_calendar(date(2028, 2, 28), 1, history_months=0).subcomponents
         self.assertEqual(sum(e.decoded("dtstart").date() == date(2028, 2, 29) for e in events), 2)
 
 
