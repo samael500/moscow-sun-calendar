@@ -37,7 +37,7 @@
   }
   select(location.hash.slice(1),false);window.addEventListener('hashchange',()=>select(location.hash.slice(1),false));
   document.querySelector('#search').addEventListener('input',e=>{const q=e.target.value.toLocaleLowerCase('ru').replaceAll('ё','е').trim();let n=0;list.querySelectorAll('button').forEach(b=>{b.hidden=!b.textContent.toLocaleLowerCase('ru').replaceAll('ё','е').includes(q);if(!b.hidden)n++;});document.querySelector('#count').textContent=`Городов: ${n}`;document.querySelector('#empty').hidden=n!==0;});
-  document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>{svg.setAttribute('viewBox',({all:'0 0 1100 420',west:'0 170 350 245',east:'345 0 755 420'})[b.dataset.view]);document.querySelectorAll('[data-view]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));});
+  document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>{svg.setAttribute('viewBox',({all:'0 0 1100 420',west:'0 70 365 350',east:'345 0 755 420'})[b.dataset.view]);document.querySelectorAll('[data-view]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));});
   document.querySelector('#copy').onclick=async()=>{const input=document.querySelector('#calendar-url');try{await navigator.clipboard.writeText(input.value);document.querySelector('#copy-status').textContent='Ссылка скопирована';}catch{input.focus();input.select();document.querySelector('#copy-status').textContent='Скопируйте выделенную ссылку вручную';}};
  }catch(error){document.querySelector('#count').textContent='Не удалось загрузить выбор города. Откройте список «Все города» ниже.';document.querySelector('.all-links').open=true;}
 })();
