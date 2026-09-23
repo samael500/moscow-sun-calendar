@@ -6,9 +6,8 @@
     "longitude": 34.4097,
     "timezone": "Europe/Simferopol",
     "geonames_id": 713513,
-    "region": "Крым",
-    "location": "Алушта",
-    "search_terms": "Украина"
+    "region": "ЮГ",
+    "location": "Алушта"
   },
   {
     "id": "alchevsk",
@@ -17,7 +16,7 @@
     "longitude": 38.81669,
     "timezone": "Europe/Moscow",
     "geonames_id": 713716,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Алчевск"
   },
   {
@@ -69,7 +68,7 @@
     "longitude": 30.12851,
     "timezone": "Europe/Kyiv",
     "geonames_id": 712165,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Белая Церковь"
   },
   {
@@ -87,7 +86,7 @@
     "longitude": 36.78815,
     "timezone": "Europe/Moscow",
     "geonames_id": 712451,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Бердянск"
   },
   {
@@ -127,7 +126,7 @@
     "longitude": 30.80671,
     "timezone": "Europe/Kyiv",
     "geonames_id": 711390,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Бровары"
   },
   {
@@ -137,7 +136,7 @@
     "longitude": 28.46871,
     "timezone": "Europe/Kyiv",
     "geonames_id": 689558,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Винница"
   },
   {
@@ -191,7 +190,7 @@
     "longitude": 38.05325,
     "timezone": "Europe/Moscow",
     "geonames_id": 707753,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Горловка"
   },
   {
@@ -211,7 +210,7 @@
     "longitude": 35.04066,
     "timezone": "Europe/Kyiv",
     "geonames_id": 709930,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Днепр"
   },
   {
@@ -221,9 +220,8 @@
     "longitude": 37.80224,
     "timezone": "Europe/Moscow",
     "geonames_id": 709717,
-    "region": "Донецк",
-    "location": "Донецк",
-    "search_terms": "Украина"
+    "region": "ЮГ",
+    "location": "Донецк"
   },
   {
     "id": "yevpatoria",
@@ -232,9 +230,8 @@
     "longitude": 33.36655,
     "timezone": "Europe/Simferopol",
     "geonames_id": 688105,
-    "region": "Крым",
-    "location": "Евпатория",
-    "search_terms": "Украина"
+    "region": "ЮГ",
+    "location": "Евпатория"
   },
   {
     "id": "yekaterinburg",
@@ -251,7 +248,7 @@
     "longitude": 28.67913,
     "timezone": "Europe/Kyiv",
     "geonames_id": 686967,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Житомир"
   },
   {
@@ -261,7 +258,7 @@
     "longitude": 35.11714,
     "timezone": "Europe/Kyiv",
     "geonames_id": 687700,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Запорожье"
   },
   {
@@ -271,7 +268,7 @@
     "longitude": 24.71248,
     "timezone": "Europe/Kyiv",
     "geonames_id": 707471,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Ивано-Франковск"
   },
   {
@@ -313,7 +310,7 @@
     "longitude": 26.58516,
     "timezone": "Europe/Kyiv",
     "geonames_id": 706950,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Каменец-Подольский"
   },
   {
@@ -323,7 +320,7 @@
     "longitude": 34.60617,
     "timezone": "Europe/Kyiv",
     "geonames_id": 709932,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Каменское"
   },
   {
@@ -341,9 +338,8 @@
     "longitude": 36.47542,
     "timezone": "Europe/Simferopol",
     "geonames_id": 706524,
-    "region": "Крым",
-    "location": "Керчь",
-    "search_terms": "Украина"
+    "region": "ЮГ",
+    "location": "Керчь"
   },
   {
     "id": "kyiv",
@@ -352,7 +348,7 @@
     "longitude": 30.5238,
     "timezone": "Europe/Kyiv",
     "geonames_id": 703448,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Киев"
   },
   {
@@ -370,7 +366,7 @@
     "longitude": 37.58793,
     "timezone": "Europe/Kyiv",
     "geonames_id": 704508,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Краматорск"
   },
   {
@@ -396,7 +392,7 @@
     "longitude": 33.40484,
     "timezone": "Europe/Kyiv",
     "geonames_id": 704147,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Кременчуг"
   },
   {
@@ -406,7 +402,7 @@
     "longitude": 33.39404,
     "timezone": "Europe/Kyiv",
     "geonames_id": 703845,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Кривой Рог"
   },
   {
@@ -416,7 +412,7 @@
     "longitude": 32.26618,
     "timezone": "Europe/Kyiv",
     "geonames_id": 705812,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Кропивницкий"
   },
   {
@@ -444,7 +440,7 @@
     "longitude": 38.44094,
     "timezone": "Europe/Moscow",
     "geonames_id": 702972,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Лисичанск"
   },
   {
@@ -454,7 +450,7 @@
     "longitude": 39.30553,
     "timezone": "Europe/Moscow",
     "geonames_id": 702658,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Луганск"
   },
   {
@@ -464,7 +460,7 @@
     "longitude": 25.35024,
     "timezone": "Europe/Kyiv",
     "geonames_id": 702569,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Луцк"
   },
   {
@@ -474,7 +470,7 @@
     "longitude": 24.02324,
     "timezone": "Europe/Kyiv",
     "geonames_id": 702550,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Львов"
   },
   {
@@ -492,7 +488,7 @@
     "longitude": 37.92576,
     "timezone": "Europe/Moscow",
     "geonames_id": 702320,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Макеевка"
   },
   {
@@ -502,7 +498,7 @@
     "longitude": 37.54131,
     "timezone": "Europe/Moscow",
     "geonames_id": 701822,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Мариуполь"
   },
   {
@@ -520,7 +516,7 @@
     "longitude": 35.38196,
     "timezone": "Europe/Moscow",
     "geonames_id": 701404,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Мелитополь"
   },
   {
@@ -592,7 +588,7 @@
     "longitude": 31.99296,
     "timezone": "Europe/Kyiv",
     "geonames_id": 700569,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Николаев"
   },
   {
@@ -602,7 +598,7 @@
     "longitude": 34.39126,
     "timezone": "Europe/Kyiv",
     "geonames_id": 700051,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Никополь"
   },
   {
@@ -636,7 +632,7 @@
     "longitude": 30.74383,
     "timezone": "Europe/Kyiv",
     "geonames_id": 698740,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Одесса"
   },
   {
@@ -672,7 +668,7 @@
     "longitude": 35.86878,
     "timezone": "Europe/Kyiv",
     "geonames_id": 697889,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Павлоград"
   },
   {
@@ -716,7 +712,7 @@
     "longitude": 34.55367,
     "timezone": "Europe/Kyiv",
     "geonames_id": 696643,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Полтава"
   },
   {
@@ -726,7 +722,7 @@
     "longitude": 26.23695,
     "timezone": "Europe/Kyiv",
     "geonames_id": 695594,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Ровно"
   },
   {
@@ -776,9 +772,8 @@
     "longitude": 33.52134,
     "timezone": "Europe/Simferopol",
     "geonames_id": 694423,
-    "region": "Крым",
-    "location": "Севастополь",
-    "search_terms": "Украина"
+    "region": "ЮГ",
+    "location": "Севастополь"
   },
   {
     "id": "sievierodonetsk",
@@ -787,7 +782,7 @@
     "longitude": 38.48624,
     "timezone": "Europe/Moscow",
     "geonames_id": 691999,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Северодонецк"
   },
   {
@@ -797,9 +792,8 @@
     "longitude": 34.11079,
     "timezone": "Europe/Simferopol",
     "geonames_id": 693805,
-    "region": "Крым",
-    "location": "Симферополь",
-    "search_terms": "Украина"
+    "region": "ЮГ",
+    "location": "Симферополь"
   },
   {
     "id": "sloviansk",
@@ -808,7 +802,7 @@
     "longitude": 37.59739,
     "timezone": "Europe/Kyiv",
     "geonames_id": 693468,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Славянск"
   },
   {
@@ -834,9 +828,8 @@
     "longitude": 34.97471,
     "timezone": "Europe/Simferopol",
     "geonames_id": 692315,
-    "region": "Крым",
-    "location": "Судак",
-    "search_terms": "Украина"
+    "region": "ЮГ",
+    "location": "Судак"
   },
   {
     "id": "sumy",
@@ -845,7 +838,7 @@
     "longitude": 34.79906,
     "timezone": "Europe/Kyiv",
     "geonames_id": 692194,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Сумы"
   },
   {
@@ -863,7 +856,7 @@
     "longitude": 25.59067,
     "timezone": "Europe/Kyiv",
     "geonames_id": 691650,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Тернополь"
   },
   {
@@ -897,7 +890,7 @@
     "longitude": 22.2947,
     "timezone": "Europe/Kyiv",
     "geonames_id": 690548,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Ужгород"
   },
   {
@@ -923,7 +916,7 @@
     "longitude": 30.21944,
     "timezone": "Europe/Kyiv",
     "geonames_id": 690688,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Умань"
   },
   {
@@ -941,9 +934,8 @@
     "longitude": 35.38153,
     "timezone": "Europe/Simferopol",
     "geonames_id": 709161,
-    "region": "Крым",
-    "location": "Феодосия",
-    "search_terms": "Украина"
+    "region": "ЮГ",
+    "location": "Феодосия"
   },
   {
     "id": "khabarovsk",
@@ -960,7 +952,7 @@
     "longitude": 36.25475,
     "timezone": "Europe/Kyiv",
     "geonames_id": 706483,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Харьков"
   },
   {
@@ -970,7 +962,7 @@
     "longitude": 32.61458,
     "timezone": "Europe/Kyiv",
     "geonames_id": 706448,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Херсон"
   },
   {
@@ -980,7 +972,7 @@
     "longitude": 26.97936,
     "timezone": "Europe/Kyiv",
     "geonames_id": 706369,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Хмельницкий"
   },
   {
@@ -998,7 +990,7 @@
     "longitude": 32.05738,
     "timezone": "Europe/Kyiv",
     "geonames_id": 710791,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Черкассы"
   },
   {
@@ -1008,7 +1000,7 @@
     "longitude": 31.28656,
     "timezone": "Europe/Kyiv",
     "geonames_id": 710735,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Чернигов"
   },
   {
@@ -1018,7 +1010,7 @@
     "longitude": 25.93241,
     "timezone": "Europe/Kyiv",
     "geonames_id": 710719,
-    "region": "Украина",
+    "region": "ЮГ",
     "location": "Черновцы"
   },
   {
@@ -1052,9 +1044,8 @@
     "longitude": 34.16624,
     "timezone": "Europe/Simferopol",
     "geonames_id": 688533,
-    "region": "Крым",
-    "location": "Ялта",
-    "search_terms": "Украина"
+    "region": "ЮГ",
+    "location": "Ялта"
   },
   {
     "id": "yaroslavl",
