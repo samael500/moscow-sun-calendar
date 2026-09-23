@@ -37,7 +37,7 @@ def build_calendar(start: date, months: int = 6, history_months: int = 6, city: 
     observer = Observer(city["latitude"], city["longitude"], 0)
     tz = ZoneInfo(city["timezone"])
     result = Calendar()
-    result.add("prodid", "-//Moscow Sun Calendar//RU")
+    result.add("prodid", "-//Sun Calendar//RU")
     result.add("version", "2.0")
     result.add("calscale", "GREGORIAN")
     result.add("method", "PUBLISH")

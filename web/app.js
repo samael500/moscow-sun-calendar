@@ -33,7 +33,7 @@
    const [x,y]=project(c),g=document.createElementNS(ns,'g');g.setAttribute('class','marker');g.setAttribute('role','button');g.setAttribute('tabindex','0');g.setAttribute('aria-label',c.name);g.dataset.city=c.id;
    for(const [cls,r]of [['hit',10],['dot',4.5]]){const dot=document.createElementNS(ns,'circle');dot.setAttribute('cx',x);dot.setAttribute('cy',y);dot.setAttribute('r',r);dot.setAttribute('class',cls);g.append(dot);}
    const title=document.createElementNS(ns,'title');title.textContent=c.name;g.append(title);g.onclick=()=>select(c.id);g.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();select(c.id);}};svg.append(g);
-   if(labels.has(c.id)){const t=document.createElementNS(ns,'text');t.setAttribute('x',x+8);t.setAttribute('y',y-9);t.setAttribute('class','map-label');t.textContent=c.name;svg.append(t);}
+   if(labels.has(c.id)){const t=document.createElementNS(ns,'text');t.setAttribute('x',x>900?x-8:x+8);if(x>900)t.setAttribute('text-anchor','end');t.setAttribute('y',y-9);t.setAttribute('class','map-label');t.textContent=c.name;svg.append(t);}
   }
   select(location.hash.slice(1),false);window.addEventListener('hashchange',()=>select(location.hash.slice(1),false));
   document.querySelector('#search').addEventListener('input',e=>{const q=e.target.value.toLocaleLowerCase('ru').replaceAll('ё','е').trim();let n=0;list.querySelectorAll('button').forEach(b=>{b.hidden=!b.textContent.toLocaleLowerCase('ru').replaceAll('ё','е').includes(q);if(!b.hidden)n++;});document.querySelector('#count').textContent=`Городов: ${n}`;document.querySelector('#empty').hidden=n!==0;});

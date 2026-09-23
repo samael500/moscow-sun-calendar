@@ -53,10 +53,6 @@ class CalendarTests(unittest.TestCase):
         events = build_calendar(date(2028, 2, 28), 1, history_months=0).subcomponents
         self.assertEqual(sum(e.decoded("dtstart").date() == date(2028, 2, 29) for e in events), 2)
 
-
-if __name__ == "__main__":
-    unittest.main()
-
 class MultiCityTests(unittest.TestCase):
     def test_all_cities_and_polar_dates(self):
         from generate import cities
@@ -76,3 +72,7 @@ class MultiCityTests(unittest.TestCase):
         for day in [date(2026, 6, 21),date(2026, 12, 21)]:
             events=build_calendar(day,months=1,history_months=0,city=murmansk).subcomponents
             self.assertFalse(any(e.decoded('dtstart').astimezone(ZoneInfo(murmansk['timezone'])).date()==day for e in events))
+
+
+if __name__ == "__main__":
+    unittest.main()
