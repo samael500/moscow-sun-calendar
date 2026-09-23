@@ -7,10 +7,10 @@ from pathlib import Path
 from pyproj import CRS, Transformer
 from shapely.affinity import translate
 from shapely.geometry import box, shape
-from shapely import make_valid
+from shapely import make_valid, unary_union
 
 ROOT = Path(__file__).resolve().parents[1]
-DOMAIN = box(12, 32, 192, 86)
+DOMAIN = box(-35, 5, 235, 88)
 CRS_TEXT = '+proj=lcc +lat_1=45 +lat_2=65 +lat_0=55 +lon_0=100 +datum=WGS84 +units=m +no_defs'
 
 
@@ -66,7 +66,11 @@ def build(output, kind):
         raw = (ROOT / f'data/{name}.geojson').read_bytes()
         meta['source_sha256'][name] = hashlib.sha256(raw).hexdigest()
         features = json.loads(raw)['features']
-        data = ''.join(path_data(g, project) for f in features for g in pieces(shape(f['geometry'])))
+        geometries = [g for f in features for g in pieces(shape(f['geometry']))]
+        # Rejoin adjacent land pieces at 180° so the split is not a false coast.
+        if name == 'land':
+            geometries = [unary_union(geometries)]
+        data = ''.join(path_data(g, project) for g in geometries)
         paths.append(f'<path class="{name}" d="{data}"/>')
         meta['layers'][name] = len(features)
     svg = '<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Карта городов, суши и крупных водоёмов"><g data-terrain="true">' + ''.join(paths) + '</g></svg>'

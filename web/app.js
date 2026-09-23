@@ -121,7 +121,7 @@
       let width = (x1 - x0) / factor, height = (y1 - y0) / factor;
       const fullWidth = this.meta.bounds.all[2] - this.meta.bounds.all[0];
       if (width < fullWidth / 300) return;
-      if (width > fullWidth * 1.8) { this.region('all'); return; }
+      if (width >= fullWidth) { this.region('all'); return; }
       this.camera = [center[0] - width / 2, center[1] - height / 2, center[0] + width / 2, center[1] + height / 2];
       this.closePopup(); this.render();
     }
