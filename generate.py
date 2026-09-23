@@ -32,7 +32,7 @@ def resolve_style(style_dir: Path | None = None) -> Path:
     style = (style_dir if style_dir is not None else ROOT / 'vendor/brodov-style').resolve()
     try:
         manifest = json.loads((style / 'package.json').read_text())
-        if manifest.get('name') != 'brodov-style' or manifest.get('interface') != 1:
+        if not isinstance(manifest, dict) or manifest.get('name') != 'brodov-style' or manifest.get('interface') != 1:
             raise ValueError('expected brodov-style interface 1')
         for name in STYLE_REQUIRED:
             if not (style / name).is_file():

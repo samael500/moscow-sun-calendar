@@ -25,6 +25,9 @@ class StyleIntegrationTests(unittest.TestCase):
             root = Path(directory)
             with self.assertRaisesRegex(ValueError, 'Invalid brodov-style'):
                 generate.resolve_style(root)
+            (root / 'package.json').write_text('[]')
+            with self.assertRaisesRegex(ValueError, 'interface 1'):
+                generate.resolve_style(root)
             (root / 'package.json').write_text(json.dumps({'name': 'brodov-style', 'interface': 999}))
             with self.assertRaisesRegex(ValueError, 'interface 1'):
                 generate.resolve_style(root)
