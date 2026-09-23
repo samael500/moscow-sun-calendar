@@ -54,6 +54,17 @@ class CalendarTests(unittest.TestCase):
         self.assertEqual(sum(e.decoded("dtstart").date() == date(2028, 2, 29) for e in events), 2)
 
 class MultiCityTests(unittest.TestCase):
+    def test_kyiv_events_across_autumn_clock_change(self):
+        from generate import cities
+        from zoneinfo import ZoneInfo
+        city = next(c for c in cities() if c['id'] == 'kyiv')
+        events = build_calendar(date(2026, 10, 24), months=1, history_months=0, city=city).subcomponents
+        first, second = events[0].decoded('dtstart'), events[2].decoded('dtstart')
+        self.assertLess(abs(second - first - timedelta(days=1)), timedelta(minutes=10))
+        tz = ZoneInfo(city['timezone'])
+        wall_difference = second.astimezone(tz).replace(tzinfo=None) - first.astimezone(tz).replace(tzinfo=None)
+        self.assertLess(abs(wall_difference - timedelta(hours=23)), timedelta(minutes=10))
+
     def test_all_cities_and_polar_dates(self):
         from generate import cities
         from zoneinfo import ZoneInfo
