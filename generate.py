@@ -18,6 +18,41 @@ OBSERVER = Observer(latitude=55.7558, longitude=37.6173, elevation=0)
 BASE_URL = "https://brodov.net/sun-calendar"
 ROOT = Path(__file__).resolve().parent
 
+STYLE_REQUIRED = (
+    'tokens.json', 'css/brodov.css', 'css/tokens.css', 'css/fonts.css',
+    'css/base.css', 'css/components.css', 'fonts/literata.woff2',
+    'fonts/literata-italic.woff2', 'fonts/pt-sans.woff2', 'fonts/pt-sans-bold.woff2',
+    'brand/logo.png', 'brand/logo-illustration.png', 'brand/social-paper.png',
+    'brand/paper-grain.png',
+)
+
+
+def resolve_style(style_dir: Path | None = None) -> Path:
+    """Explicit package takes precedence; defaults never depend on cwd."""
+    style = (style_dir if style_dir is not None else ROOT / 'vendor/brodov-style').resolve()
+    try:
+        manifest = json.loads((style / 'package.json').read_text())
+        if not isinstance(manifest, dict) or manifest.get('name') != 'brodov-style' or manifest.get('interface') != 1:
+            raise ValueError('expected brodov-style interface 1')
+        for name in STYLE_REQUIRED:
+            if not (style / name).is_file():
+                raise ValueError(f'missing required file: {name}')
+    except (OSError, ValueError) as error:
+        raise ValueError(f'Invalid brodov-style package at {style}: {error}. '
+                         'Run git submodule update --init --recursive or pass --style-dir PATH.') from error
+    return style
+
+
+def copy_style(style: Path, output: Path):
+    """Copy public runtime assets only; never remove or write into the input."""
+    for folder in ('css', 'fonts', 'brand'):
+        target = output / 'brodov-style' / folder
+        target.mkdir(parents=True, exist_ok=True)
+        for source in (style / folder).iterdir():
+            if source.is_file() and source.suffix in ('.css', '.woff2', '.png'):
+                shutil.copy2(source, target / source.name)
+
+
 def cities():
     return json.loads((ROOT / "data/cities.json").read_text())
 
@@ -81,8 +116,13 @@ def build_calendar(start: date, months: int = 6, history_months: int = 6, city: 
     return result
 
 
-def generate_site(output: Path, anchor: date | None = None, months: int = 6, history_months: int = 6, noindex: bool = False):
+def generate_site(output: Path, anchor: date | None = None, months: int = 6, history_months: int = 6, noindex: bool = False, style_dir: Path | None = None):
+    style = resolve_style(style_dir)
+    output = output.resolve()
+    if output.is_relative_to(style) or style.is_relative_to(output):
+        raise ValueError('output-dir and style-dir must not contain each other; style-dir is read-only input')
     output.mkdir(parents=True, exist_ok=True)
+    copy_style(style, output)
     shutil.copytree(ROOT / "web", output, dirs_exist_ok=True)
     catalog = []
     now = datetime.now(timezone.utc)
@@ -114,10 +154,14 @@ def main():
     parser.add_argument("--start", type=date.fromisoformat)
     parser.add_argument("--months", type=int, default=6)
     parser.add_argument("--history-months", type=int, default=6)
-    parser.add_argument("--output-dir", type=Path, default=Path("docs"))
+    parser.add_argument("--output-dir", type=Path, default=ROOT / "docs")
     parser.add_argument("--noindex", action="store_true", help="Exclude preview pages from search indexing")
+    parser.add_argument("--style-dir", type=Path, help="brodov-style interface 1 directory; overrides the pinned vendor package")
     args = parser.parse_args()
-    generate_site(args.output_dir, args.start, args.months, args.history_months, args.noindex)
+    try:
+        generate_site(args.output_dir, args.start, args.months, args.history_months, args.noindex, args.style_dir)
+    except ValueError as error:
+        parser.error(str(error))
 
 
 if __name__ == "__main__":

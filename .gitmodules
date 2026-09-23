@@ -1,0 +1,3 @@
+[submodule "vendor/brodov-style"]
+	path = vendor/brodov-style
+	url = https://github.com/samael500/brodov-style.git
